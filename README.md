@@ -22,11 +22,8 @@ This repository contains the materials of the **MSc Information Retrieval** cour
 
 ## Important links
 
-- [Core IR lectures](lecturesCoreIR.md)
-- [Core IR project](projectCoreIR.md)
-- [Applied NLP lectures](lecturesAppliedNLP.md)
-- [Applied NLP project](projectAppliedNLP.md)
-- [Paper review form](reviewForm.md)
+- [Lectures notes](lecture.md)
+- [Project descrition](project.md)
 - Signing up on Slack: [https://join.slack.com/t/in43252019/signup](https://join.slack.com/t/in43252019/signup)
 - Signing up for support and the group interview: [https://queue.ewi.tudelft.nl/](https://queue.ewi.tudelft.nl/)
 
@@ -44,17 +41,14 @@ The split (core IR / applied NLP) will be made halfway through the course: the f
 
 ## Course team
 
-This distribution also fits the lecturer team of this course: [Associate Prof. Claudia Hauff](https://chauff.github.io/) teaches the core IR lectures, while [Assistant Prof. Nava Tintarev](http://navatintarev.com/) teaches the applied NLP lectures. The course team is completed by a number of PhDs and Postdocs (all from the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who focuses on the grading of the paper reviews:
+This distribution also fits the lecturer team of this course: [Associate Prof. Lydia Y Chen](https://chauff.github.io/) teaches the core IR lectures, while [Assistant Prof. Nava Tintarev](http://navatintarev.com/) teaches the applied NLP lectures. The course team is completed by a number of PhDs (all from the [Distributed System group](http://www.ds.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who focuses on the grading of the paper reviews:
 
-- Oana Inel (Postdoc)
-- Dimitrios Bountouridis (Postdoc)
-- Gustavo Penha (PhD student)
-- Arthur Camara (PhD student)
-- Shabnam Najafian (PhD student)
-- Felipe Moraes (PhD student)
-- Nirmal Roy (TA)
 
-Claudia and Nava are the responsible instructors of this course and can jointly be reached at **in4325-ewi@tudelft.nl**.
+-  (PhD student)
+-  (PhD student)
+
+
+Lydia is the responsible instructors of this course and can jointly be reached at **y.chen-10@tudelft.nl**.
 
 The whole course team can also be found on a dedicated [Slack channel](https://join.slack.com/t/in43252019/signup) - join it to get quick feedback on questions/issues. You have to use your `@student.tudelft.nl` email address to join!
 
@@ -96,7 +90,7 @@ The differences in group sizes will be taken into account during grading.
 
 At the end of each project phase we will conduct a short interview (15 minutes per group) about the group project and its connection to the course content. Based on the project report and the interview, each member of the group receives a grade. We have two project phases (core IR and applied NLP), so each group will have one interview in week 5 and week 9 (*tentatively*).
 
-### Weekly reviews
+### Two Homeworks
 
 Most lectures are accompanied by **one required reading**, which is usually a scientific paper. For every required reading you are asked to write a *review*. These review activities are individual work.
 
@@ -133,10 +127,3 @@ During weeks 3.2 to 3.5 between 9am and 11:30am at least three staff members wil
 Click on the day you want to get support and then *enroll* for a particular timeslot. Per group, please pick only one timeslot per week. The support hours are offered in building 28, please come to the waiting area near room E04.100 (Claudia Hauff's office). As you can see in the image, the 
 **core IR interviews** on March 14/15 are also scheduled this way. *Once again: one timeslot per group!*
 
-### Applied NLP
-During weeks 3.6 to 3.8 between 9am and 11:30am at least two staff members will be available to help groups with their NLP projects. You can sign up for 15 minute timeslots on TU Delft's queue system: https://queue.ewi.tudelft.nl/
-
-The support hours are offered in building 28, please come to the waiting area near room W04.900 (Nava Tintarev's office).
-**NLP interviews** on April 11/12 are also scheduled this way. *Once again: one timeslot per group!*
-
-## :clock130: Course schedule
