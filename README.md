@@ -16,6 +16,7 @@ This repository contains the materials of the **MSc Information Retrieval** cour
   - [Group projects](#group-projects)
 - [Schedule](#schedule)
 - [Collaboration v.s. cheating](#collaboration-cheating)
+- [Relevent references](#relevant-references)
 
 
 
@@ -93,9 +94,7 @@ The group projects follow each other. During the first 5 course weeks, the group
 
 Group size:
 - Core IR (2-3)
-- Applied NLP (3-4)
 
-The differences in group sizes will be taken into account during grading. 
 
 At the end of each project phase we will conduct a short interview (15 minutes per group) about the group project and its connection to the course content. Based on the project report and the interview, each member of the group receives a grade. We have two project phases (core IR and applied NLP), so each group will have one interview in week 5 and week 9 (*tentatively*).
 
@@ -114,3 +113,35 @@ In order to pass this course, you need to fullfil **all** of the following:
 You will receive one homework every few weeks. These are meant to reinforce the material that we are learning during that time, so please start immediately. Please do not search the web for help on the homework problems. It is difficult to develop good homework problems, and thus you may come across similar problems if you search the web for help. 
 
 You are strongly encouraged to collaborate with your classmates on these problems, but each person must write up the final solutions individually. You should note on your homework specifically which problems were a collaborative effort and with whom.
+
+
+## Relevant references 
+
+### Online lecture notes
+
+ - Caltech
+ - CUHK, System Performance Evaluation(http://www.cse.cuhk.edu.hk/~cslui/csc5420.html]Computer) , John C.S. Lui
+ - Columbia, [http://www.columbia.edu/~ww2040/6711F08/IEOR6711F08.html]], Ward Whitt
+ - TuE [http://www.win.tue.nl/~iadan/queueing.pdf], Ivo Adan
+- Columbia,[http://www.ee.columbia.edu/~egc/e6180a.html], Ed Coffman
+
+ UMASS Amherst, <a href="http://www-net.cs.umass.edu/pe2002/notes.html"> Performance Evaluation</a>, Don Towsley
+
+
+### Books on stochastic process
+- S. M. Ross,  Introduction to Probability Models
+- S. M. Ross,  Stochastic Processes
+- R. W. Wolff,  Stochastic Modeling and the Theory of Queues
+- L. Kleinrock,  Queueing Systems, Vol. I: Theory
+- L. Kleinrock,  Queueing Systems, Vol. II: Computer Applications
+- S. Karlin and H. M. Taylor,  A First Course in Stochastic Processes
+- S. I. Resnick,  Adventures in Stochastic Processes
+- W. Whitt, Stochastic Process Limits
+
+
+### Books on performance modeling
+
+- H. Kobayashi and B. L. Mark, System Modeling and Analysis
+- E. Lazowska, J. Zahorjan, S. Graham, K. Sevcik,  Quantitative System Performance
+- D. Menasce, V. Almeida, and L. Dowdy,  Capacity Planning and Performance Modeling
+- R. Jain,  The Art of Computer Systems Performance Analysis: Techniques for Experimental Design, Measurement, Simulation, and Modeling
