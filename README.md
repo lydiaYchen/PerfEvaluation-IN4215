@@ -44,7 +44,7 @@ The split (core IR / applied NLP) will be made halfway through the course: the f
 
 ## Course team
 
-This distribution also fits the lecturer team of this course: [Associate Prof. Lydia Y Chen](https://chauff.github.io/) teaches the core IR lecture. The course team is composed of a number of PhDs (all from the [Distributed System group](http://www.ds.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who focuses on the grading of the paper reviews:
+This distribution also fits the lecturer team of this course: [Associate Prof. Lydia Y Chen](https://lydiaychen.com//) teaches the core IR lecture. The course team is composed of a number of PhDs (all from the [Distributed System group](http://www.ds.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who focuses on the grading of the paper reviews:
 
 
 -  (PhD student)
@@ -120,12 +120,11 @@ You are strongly encouraged to collaborate with your classmates on these problem
 ### Online lecture notes
 
  - Caltech
- - CUHK, System Performance Evaluation(http://www.cse.cuhk.edu.hk/~cslui/csc5420.html]Computer) , John C.S. Lui
- - Columbia, [http://www.columbia.edu/~ww2040/6711F08/IEOR6711F08.html]], Ward Whitt
- - TuE [http://www.win.tue.nl/~iadan/queueing.pdf], Ivo Adan
-- Columbia,[http://www.ee.columbia.edu/~egc/e6180a.html], Ed Coffman
-
- UMASS Amherst, <a href="http://www-net.cs.umass.edu/pe2002/notes.html"> Performance Evaluation</a>, Don Towsley
+ - CUHK, [Computer System Performance Evaluation](http://www.cse.cuhk.edu.hk/~cslui/csc5420.html]Computer) , John C.S. Lui
+ - Columbia, [ Stochastic Models](http://www.columbia.edu/~ww2040/6711F08/IEOR6711F08.html), Ward Whitt
+ - TuE [Queueing Theor](http://www.win.tue.nl/~iadan/queueing.pdf), Ivo Adan
+- Columbia,[Performance Modeling and Evaluatio](http://www.ee.columbia.edu/~egc/e6180a.html), Ed Coffman
+- UMASS Amherst,[Performance Evaluation](http://www-net.cs.umass.edu/pe2002/notes.html), Don Towsley
 
 
 ### Books on stochastic process
