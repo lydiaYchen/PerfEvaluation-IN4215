@@ -12,9 +12,10 @@ This repository contains the materials of the **MSc Information Retrieval** cour
 - [ECs](#ecs)
 - [Learning objectives](#learning-objectives)
 - [:dart: Grading policy](#dart-grading-policy)
-- [Group projects](#group-projects)
-- [Schedule](#deadlines)
--[Collaboration v.s. cheating](#collaboration)
+  - [Homework](#homework)
+  - [Group projects](#group-projects)
+- [Schedule](#schedule)
+- [Collaboration v.s. cheating](#collaboration-cheating)
 
 
 
@@ -79,6 +80,13 @@ This course has no final exam, instead the grade is largely determined through t
 
 **All assessment items (reviews, projects reports) have to be submitted via Brightspace.**
 
+
+### Homework
+
+Most lectures are accompanied by **one required reading**, which is usually a scientific paper. For every required reading you are asked to write a *review*. These review activities are individual work.
+
+Each review is graded as either *excellent*, *sufficient* or *insufficient*. In order to pass the course, 9 of the 14 offered review opportunities have to be passed with at least *sufficient*. Use the provided [review template](reviewForm.md) and follow its instructions. Reviews are submitted via Brightspace.
+
 ### Group projects
 
 The group projects follow each other. During the first 5 course weeks, the group tackles the [core IR project](projectCoreIR.md) (reproducing a research paper essentially), during the second 5 weeks of the course the group tackles the [applied NLP project](projectAppliedNLP.md).
@@ -91,17 +99,14 @@ The differences in group sizes will be taken into account during grading.
 
 At the end of each project phase we will conduct a short interview (15 minutes per group) about the group project and its connection to the course content. Based on the project report and the interview, each member of the group receives a grade. We have two project phases (core IR and applied NLP), so each group will have one interview in week 5 and week 9 (*tentatively*).
 
-### Two Homeworks
-
-Most lectures are accompanied by **one required reading**, which is usually a scientific paper. For every required reading you are asked to write a *review*. These review activities are individual work.
-
-Each review is graded as either *excellent*, *sufficient* or *insufficient*. In order to pass the course, 9 of the 14 offered review opportunities have to be passed with at least *sufficient*. Use the provided [review template](reviewForm.md) and follow its instructions. Reviews are submitted via Brightspace.
 
 
 In order to pass this course, you need to fullfil **all** of the following:
 1. Receive an overall grade of 5.8 or higher (in alignment with TU Delft's exam regulations). 
 2. Complete both project phases with at least a grade of 5.0.
 3. Receive a *sufficient* for at least 9 of the 14 reviews.
+
+## Schecule
 
 ## Collaboration v.s. cheating
 
