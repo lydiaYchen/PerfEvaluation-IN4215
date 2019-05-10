@@ -7,18 +7,17 @@ This repository contains the materials of the **MSc Information Retrieval** cour
 ## Table of contents <!-- omit in toc -->
 - [Important links](#important-links)
 - [Course description](#course-description)
+- [Text books] (#text-book)
 - [Course team](#course-team)
 - [ECs](#ecs)
 - [Learning objectives](#learning-objectives)
-- [:dart: Assessment](#dart-assessment)
-  - [Group projects](#group-projects)
-  - [Weekly reviews](#weekly-reviews)
-- [Final grade](#final-grade)
-- [:hourglass: Weekly support hours and interview](#hourglass-weekly-support-hours-and-interview)
-  - [Core IR](#core-ir)
-  - [Applied NLP](#applied-nlp)
-- [:clock130: Course schedule](#clock130-course-schedule)
-- [Deadlines](#deadlines)
+- [:dart: Grading policy](#dart-grading-policy)
+- [Group projects](#group-projects)
+- [Schedule](#deadlines)
+-[Collaboration v.s. cheating](#collaboration)
+
+
+
 
 ## Important links
 
@@ -39,9 +38,11 @@ In the **second module** of the course we cover natural language processing (NLP
 
 The split (core IR / applied NLP) will be made halfway through the course: the first eight lectures cover core IR techniques, the remaining eight lectures cover applied NLP techniques with applications to search in mind. 
 
+## Text books
+
 ## Course team
 
-This distribution also fits the lecturer team of this course: [Associate Prof. Lydia Y Chen](https://chauff.github.io/) teaches the core IR lectures, while [Assistant Prof. Nava Tintarev](http://navatintarev.com/) teaches the applied NLP lectures. The course team is completed by a number of PhDs (all from the [Distributed System group](http://www.ds.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who focuses on the grading of the paper reviews:
+This distribution also fits the lecturer team of this course: [Associate Prof. Lydia Y Chen](https://chauff.github.io/) teaches the core IR lecture. The course team is composed of a number of PhDs (all from the [Distributed System group](http://www.ds.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who focuses on the grading of the paper reviews:
 
 
 -  (PhD student)
@@ -68,13 +69,13 @@ This is a **5 EC course**, with **140 hours** of course work in total. We expect
 - **Evaluate** natural language processing applications in different task contexts.
 - Illustrate suitable application scenarios for advanced natural language processing topics such as **natural language queries** and **summarization**.
 
-## :dart: Assessment
+## :dart: Grading policy
 
 This course has no final exam, instead the grade is largely determined through three components: 
 
-1. a group project core IR.
-2. a group project applied NLP.
-3. individual review activities.
+1. Two Homework assigmnets (50%)
+2. Group projects (40% )
+3. Presentation (10%).
 
 **All assessment items (reviews, projects reports) have to be submitted via Brightspace.**
 
@@ -96,34 +97,15 @@ Most lectures are accompanied by **one required reading**, which is usually a sc
 
 Each review is graded as either *excellent*, *sufficient* or *insufficient*. In order to pass the course, 9 of the 14 offered review opportunities have to be passed with at least *sufficient*. Use the provided [review template](reviewForm.md) and follow its instructions. Reviews are submitted via Brightspace.
 
-## Final grade
-
-<img src="img/grading.png" width="400px">
-
-Each of the two project phases is worth 45% of the final grade, consisting of the following parts:
-- Report writing, background & context:  10%
-- Report technical correctness: 10%
-- Report results & discussion: 10%
-- Interview (understanding, insights): 15%
-
-The paper review is worth 10% of the final grade. We take the 9 best review grades you have achieved (which at minimum should be 9x *sufficient* and at best can be 9x *excellent*) and convert them into points: 1 point per *sufficient* and 2 points per *excellent*. 18 points (i.e. 9x *excellent*) is a grade of 10, 9 points (i.e. 9x *sufficient*) is a grade of 6. Points between 9 and 18 are converted to grades in a linear fashion.
 
 In order to pass this course, you need to fullfil **all** of the following:
 1. Receive an overall grade of 5.8 or higher (in alignment with TU Delft's exam regulations). 
 2. Complete both project phases with at least a grade of 5.0.
 3. Receive a *sufficient* for at least 9 of the 14 reviews.
 
+## Collaboration v.s. cheating
 
 
-## :hourglass: Weekly support hours and interview
+You will receive one homework every few weeks. These are meant to reinforce the material that we are learning during that time, so please start immediately. Please do not search the web for help on the homework problems. It is difficult to develop good homework problems, and thus you may come across similar problems if you search the web for help. 
 
-We do not have fixed lab hours. Due to the heavy emphasis on project work in this course, we offer weekly support hours: 
-
-### Core IR 
-During weeks 3.2 to 3.5 between 9am and 11:30am at least three staff members will be available to help groups with their IR project. You can sign up for 15 minute timeslots on TU Delft's queue system: head to https://queue.ewi.tudelft.nl/ and look for `IN4325`. You should see something along those lines:
-
-<img src="img/queue.png" width="600px">
-
-Click on the day you want to get support and then *enroll* for a particular timeslot. Per group, please pick only one timeslot per week. The support hours are offered in building 28, please come to the waiting area near room E04.100 (Claudia Hauff's office). As you can see in the image, the 
-**core IR interviews** on March 14/15 are also scheduled this way. *Once again: one timeslot per group!*
-
+You are strongly encouraged to collaborate with your classmates on these problems, but each person must write up the final solutions individually. You should note on your homework specifically which problems were a collaborative effort and with whom.
