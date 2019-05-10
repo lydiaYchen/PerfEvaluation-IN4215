@@ -7,7 +7,7 @@ This repository contains the materials of the **MSc Information Retrieval** cour
 ## Table of contents <!-- omit in toc -->
 - [Important links](#important-links)
 - [Course description](#course-description)
-- [Text books] (#text-book)
+- [Text books](#textbooks)
 - [Course team](#course-team)
 - [ECs](#ecs)
 - [Learning objectives](#learning-objectives)
@@ -39,7 +39,7 @@ In the **second module** of the course we cover natural language processing (NLP
 
 The split (core IR / applied NLP) will be made halfway through the course: the first eight lectures cover core IR techniques, the remaining eight lectures cover applied NLP techniques with applications to search in mind. 
 
-## Text books
+## Textbooks
 
 ## Course team
 
