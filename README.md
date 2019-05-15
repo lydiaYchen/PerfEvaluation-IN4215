@@ -32,13 +32,19 @@ This repository contains the materials of the **MSc Information Retrieval** cour
 
 <img style="float:right;" src="img/library.png" width="200px">
 
-Performance Evalution
 
-**But how do search engines actually work?** This is what this course is about. In the **first module** of the course, we focus on **core IR** techniques such as indexing, retrieval models, evaluation metrics and so on. 
+Todays computing systems become ever complex, due to the rapid development of hardware and software technology.  It is challenging to design and run computing systems that guarantee users’ performance requirements in a resource efficient way. Various quantitative methods are applied to capture such complex system dynamics and predict metrics of interests, from the designing phase of the systems to the runtime performance, e.g., job response times and system anomaly.  To optimize the performance of computing systems, a deep understanding on those methods and their applications on the system design are essential. Having practical hand-on experience on designing experiments, deriving models, and validating results with benchmark systems will prepare students to tackle challenges of real systems. 
 
-In the **second module** of the course we cover natural language processing (NLP) and natural language generation (NLG). While for many years, IR and NLP researchers stayed far away from each other, in recent years the two fields have moved closer together, with search engines using many NLP techniques to enhance the search experience--e.g. by providing automatically generated explanations of search result rankings and by enabling a _dialogue_ to take place between the search engine and user.
+Course topics include
+- Overview on quantitative methods and basics mathematics tools. (week 1)
+- Queueing methods for modeling computing systems (week 2 and 3)
+- Scheduling and load balancing  (week 4 )
+- Machine learning methods for modeling computing systems (week 5 )
+- Design of experiments and simulation (week )
 
-The split (core IR / applied NLP) will be made halfway through the course: the first eight lectures cover core IR techniques, the remaining eight lectures cover applied NLP techniques with applications to search in mind. 
+- System secdurity and scability analysis (week)
+- Optimization and resource managment (week 7)
+
 
 ## Textbooks
 
