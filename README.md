@@ -65,7 +65,6 @@ This is a **5 EC course**, with **140 hours** of course work in total. We expect
 - Derive models to predict the performance of selected computing system designs, e.g., the average latency, failure, energy consumption, and scalability
 - Design experiments to profile applications and their workloads, extracting key inputs for the derived queueing and machine-learning models
 - Develop resource provisioning policies and validate them on real computing systems
-
 - **Evaluate** natural language processing applications in different task contexts.
 - Illustrate suitable application scenarios for advanced natural language processing topics such as **natural language queries** and **summarization**.
 
@@ -73,9 +72,9 @@ This is a **5 EC course**, with **140 hours** of course work in total. We expect
 
 This course has no final exam, instead the grade is largely determined through three components: 
 
-1. Two Homework assigmnets (50%)
-2. Group projects (40% )
-3. Presentation (10%).
+1. Homework (50%): 2 individual homework due in week 4 and 7. Each homework accounts 25% of the grade and cover 3 weeks material. Homework will be given in week 1 and 4. Students have three weeks time to complete them. 
+2. Group project (50%): group project report (40%) and presentation (10%). There will be 7 predefined projects students can choose from. There will be an interim discussion with each team in week 6. The final report will be due in week 9, and 20 minutes presentation in week 9 as well.
+
 
 **All assessment items (reviews, projects reports) have to be submitted via Brightspace.**
 
