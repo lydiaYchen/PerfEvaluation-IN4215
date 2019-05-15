@@ -61,13 +61,11 @@ This is a **5 EC course**, with **140 hours** of course work in total. We expect
 
 ## Learning objectives
 
-- Describe the different **information retrieval models**, and compare their strengths and weaknesses.
-- Describe and implement different **indexing techniques**.
-- Describe and analyze **querying techniques** with respect to their most suited application domains.
-- Analyze the effectiveness of an information retrieval system through proper use of **evaluation metrics**.
-- **Design and implement/improve a search system**, possibly using advanced social and semantic search functionalities. Support and defend the relevance and correctness the choices with regards to the adopted information retrieval model, indexing technique, and querying technique.
-- Describe common **natural language generation models**, and analyse their application in different domains.
-- Design and develop **natural language processing** applications.
+- Apply queueing and machine-learning models to analyze performance of modern computing systems, e.g., web servers, cloud systems, machine learning clusters, and datacenters.
+- Derive models to predict the performance of selected computing system designs, e.g., the average latency, failure, energy consumption, and scalability
+- Design experiments to profile applications and their workloads, extracting key inputs for the derived queueing and machine-learning models
+- Develop resource provisioning policies and validate them on real computing systems
+
 - **Evaluate** natural language processing applications in different task contexts.
 - Illustrate suitable application scenarios for advanced natural language processing topics such as **natural language queries** and **summarization**.
 
@@ -93,10 +91,10 @@ Each review is graded as either *excellent*, *sufficient* or *insufficient*. In 
 The group projects follow each other. During the first 5 course weeks, the group tackles the [core IR project](projectCoreIR.md) (reproducing a research paper essentially), during the second 5 weeks of the course the group tackles the [applied NLP project](projectAppliedNLP.md).
 
 Group size:
-- Core IR (2-3)
+- 2-3 students.
 
 
-At the end of each project phase we will conduct a short interview (15 minutes per group) about the group project and its connection to the course content. Based on the project report and the interview, each member of the group receives a grade. We have two project phases (core IR and applied NLP), so each group will have one interview in week 5 and week 9 (*tentatively*).
+At the end of each project phase we will conduct a short interview (20 minutes per group) about the group project and its connection to the course content. Based on the project report and the interview, each member of the group receives a grade. We have two project phases (core IR and applied NLP), so each group will have one interview in week 5 and week 9 (*tentatively*).
 
 
 
