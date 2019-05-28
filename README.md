@@ -14,7 +14,7 @@ This repository contains the materials of the **MSc Information Retrieval** cour
 - [:dart: Grading policy](#dart-grading-policy)
   - [Homework](#homework)
   - [Group projects](#group-projects)
-- [Schedule](#schedule)
+[//]: # ( [Schedule](#schedule))
 - [Collaboration v.s. cheating](#collaboration-cheating)
 - [Relevent references](#relevant-references)
 
@@ -25,8 +25,8 @@ This repository contains the materials of the **MSc Information Retrieval** cour
 
 - [Lectures notes](lecture.md)
 - [Project descrition](project.md)
-- Signing up on Slack: [https://join.slack.com/t/in43252019/signup](https://join.slack.com/t/in43252019/signup)
-- Signing up for support and the group interview: [https://queue.ewi.tudelft.nl/](https://queue.ewi.tudelft.nl/)
+- [Homework assigments](homework.md)
+
 
 ## Course description
 
@@ -37,29 +37,33 @@ Todays computing systems become ever complex, due to the rapid development of ha
 
 Course topics include
 - Overview on quantitative methods and basics mathematics tools. (week 1)
-- Queueing methods for modeling computing systems (week 2 and 3)
-- Scheduling and load balancing  (week 4 )
-- Machine learning methods for modeling computing systems (week 5 )
-- Design of experiments and simulation (week )
-
-- System secdurity and scability analysis (week)
+- Queueing methods for modeling computing systems (week 1 and 2)
+- Scheduling and load balancing  (week 3 )
+- Machine learning methods for modeling computing systems (week 4 )
+- Design of experiments and simulation (week 5)
+- System secdurity and scability analysis (week 6)
 - Optimization and resource managment (week 7)
 
 
 ## Textbooks
+
+- Performance Modeling and Design of Computer Systems: Queuing Theory in Action by Mor. Harchol-Balter 
+- The Art of Computer Systems Performance Analysis: Techniques for Experimental Design, Measurement, Simulation, and Modeling by Raj Jian
+- The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Springer Series in Statistics.
+
 
 ## Course team
 
 This distribution also fits the lecturer team of this course: [Associate Prof. Lydia Y Chen](https://lydiaychen.com//) teaches the core IR lecture. The course team is composed of a number of PhDs (all from the [Distributed System group](http://www.ds.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who focuses on the grading of the paper reviews:
 
 
--  (PhD student)
--  (PhD student)
+-  Taraneh (PhD student)
+-  Masoud (PhD student)
 
 
 Lydia is the responsible instructors of this course and can jointly be reached at **y.chen-10@tudelft.nl**.
 
-The whole course team can also be found on a dedicated [Slack channel](https://join.slack.com/t/in43252019/signup) - join it to get quick feedback on questions/issues. You have to use your `@student.tudelft.nl` email address to join!
+[//]: # (The whole course team ` email address to join!)
 
 ## ECs
 
@@ -71,8 +75,7 @@ This is a **5 EC course**, with **140 hours** of course work in total. We expect
 - Derive models to predict the performance of selected computing system designs, e.g., the average latency, failure, energy consumption, and scalability
 - Design experiments to profile applications and their workloads, extracting key inputs for the derived queueing and machine-learning models
 - Develop resource provisioning policies and validate them on real computing systems
-- **Evaluate** natural language processing applications in different task contexts.
-- Illustrate suitable application scenarios for advanced natural language processing topics such as **natural language queries** and **summarization**.
+
 
 ## :dart: Grading policy
 
@@ -86,29 +89,22 @@ This course has no final exam, instead the grade is largely determined through t
 
 
 ### Homework
-
-Most lectures are accompanied by **one required reading**, which is usually a scientific paper. For every required reading you are asked to write a *review*. These review activities are individual work.
-
-Each review is graded as either *excellent*, *sufficient* or *insufficient*. In order to pass the course, 9 of the 14 offered review opportunities have to be passed with at least *sufficient*. Use the provided [review template](reviewForm.md) and follow its instructions. Reviews are submitted via Brightspace.
+- Homework 1: due in week 4
+- Homework 4: due in week 7
 
 ### Group projects
+- 7 predefined project topics: evaluting the systems of 
+- Group size: 2-3 students
+- Schedule: interim meeting (week 6), report due (week 9), and presntation/interview (week 9)
 
-The group projects follow each other. During the first 5 course weeks, the group tackles the [core IR project](projectCoreIR.md) (reproducing a research paper essentially), during the second 5 weeks of the course the group tackles the [applied NLP project](projectAppliedNLP.md).
-
-Group size:
-- 2-3 students.
-
-
-At the end of each project phase we will conduct a short interview (20 minutes per group) about the group project and its connection to the course content. Based on the project report and the interview, each member of the group receives a grade. We have two project phases (core IR and applied NLP), so each group will have one interview in week 5 and week 9 (*tentatively*).
+At the end of each project phase we will conduct a short interview (20 minutes per group) about the group project and its connection to the course content. Based on the project report and the interview, each member of the group receives a grade. 
 
 
 
 In order to pass this course, you need to fullfil **all** of the following:
 1. Receive an overall grade of 5.8 or higher (in alignment with TU Delft's exam regulations). 
-2. Complete both project phases with at least a grade of 5.0.
-3. Receive a *sufficient* for at least 9 of the 14 reviews.
+2. Each homework and project at least a grade of 5.0.
 
-## Schecule
 
 ## Collaboration v.s. cheating
 
@@ -127,6 +123,7 @@ You are strongly encouraged to collaborate with your classmates on these problem
  - Columbia, [ Stochastic Models](http://www.columbia.edu/~ww2040/6711F08/IEOR6711F08.html), Ward Whitt
  - TuE [Queueing Theor](http://www.win.tue.nl/~iadan/queueing.pdf), Ivo Adan
 - Columbia,[Performance Modeling and Evaluatio](http://www.ee.columbia.edu/~egc/e6180a.html), Ed Coffman
+- UW  [Introduction to Machine Learning](http://courses.washington.edu/css581/CSS%20581%20-%20Winter%202014%20-%20syllabus.html#schedule)
 - UMASS Amherst,[Performance Evaluation](http://www-net.cs.umass.edu/pe2002/notes.html), Don Towsley
 
 
@@ -148,4 +145,4 @@ You are strongly encouraged to collaborate with your classmates on these problem
 - D. Menasce, V. Almeida, and L. Dowdy,  Capacity Planning and Performance Modeling
 - R. Jain,  The Art of Computer Systems Performance Analysis: Techniques for Experimental Design, Measurement, Simulation, and Modeling
 
-test
+
