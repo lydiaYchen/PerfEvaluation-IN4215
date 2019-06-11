@@ -8,7 +8,7 @@ This repository contains the materials of the **MSc Information Retrieval** cour
 - [Important links](#important-links)
 - [Course description](#course-description)
 - [Text books](#textbooks)
-- [Course team](#course-team)
+- [Course team](#course-team`
 - [ECs](#ecs)
 - [Learning objectives](#learning-objectives)
 - [:dart: Grading policy](#dart-grading-policy)
@@ -17,7 +17,6 @@ This repository contains the materials of the **MSc Information Retrieval** cour
 [//]: # ( [Schedule](#schedule))
 - [Collaboration v.s. cheating](#collaboration-cheating)
 - [Relevent references](#relevant-references)
-
 
 
 
@@ -104,6 +103,9 @@ At the end of each project phase we will conduct a short interview (20 minutes p
 In order to pass this course, you need to fullfil **all** of the following:
 1. Receive an overall grade of 5.8 or higher (in alignment with TU Delft's exam regulations). 
 2. Each homework and project at least a grade of 5.0.
+
+
+## Detailed schedule
 
 
 ## Collaboration v.s. cheating
