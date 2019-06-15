@@ -1,4 +1,4 @@
-# Core IR project
+# Performance modeling project
 
 ## There are three expected milestones:
 
