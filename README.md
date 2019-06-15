@@ -45,10 +45,7 @@ Course topics include
 
 
 ## Textbooks
-
-- Performance Modeling and Design of Computer Systems: Queuing Theory in Action by Mor. Harchol-Balter 
-- The Art of Computer Systems Performance Analysis: Techniques for Experimental Design, Measurement, Simulation, and Modeling by Raj Jian
-- The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Springer Series in Statistics.
+x`
 
 
 ## Course team
