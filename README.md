@@ -106,6 +106,13 @@ In order to pass this course, you need to fullfil **all** of the following:
 
 
 ## Detailed schedule
+- Week1: DoE 1 (done) and DoE 2 (done)
+- Week2: Operation laws (done) and probability review
+- Week3: DTMC/CTMC (done) and queueing theory (done)
+- Week 4:
+- Week5: ML 1 ( Logistic regression, K-means, decision tree, random forest ) and ML 2 (Support vecotr, Neural Network)
+- Week6: 
+- Week7: Simulation and resource managment
 
 
 ## Collaboration v.s. cheating
@@ -120,31 +127,24 @@ You are strongly encouraged to collaborate with your classmates on these problem
 
 ### Online lecture notes
 
- - Caltech
+ 
  - CUHK, [Computer System Performance Evaluation](http://www.cse.cuhk.edu.hk/~cslui/csc5420.html]Computer) , John C.S. Lui
- - Columbia, [ Stochastic Models](http://www.columbia.edu/~ww2040/6711F08/IEOR6711F08.html), Ward Whitt
- - TuE [Queueing Theor](http://www.win.tue.nl/~iadan/queueing.pdf), Ivo Adan
 - Columbia,[Performance Modeling and Evaluatio](http://www.ee.columbia.edu/~egc/e6180a.html), Ed Coffman
 - UW  [Introduction to Machine Learning](http://courses.washington.edu/css581/CSS%20581%20-%20Winter%202014%20-%20syllabus.html#schedule)
-- UMASS Amherst,[Performance Evaluation](http://www-net.cs.umass.edu/pe2002/notes.html), Don Towsley
+- CMU [Introduction to Machine learning]
 
-
-### Books on stochastic process
-- S. M. Ross,  Introduction to Probability Models
-- S. M. Ross,  Stochastic Processes
-- R. W. Wolff,  Stochastic Modeling and the Theory of Queues
-- L. Kleinrock,  Queueing Systems, Vol. I: Theory
-- L. Kleinrock,  Queueing Systems, Vol. II: Computer Applications
-- S. Karlin and H. M. Taylor,  A First Course in Stochastic Processes
-- S. I. Resnick,  Adventures in Stochastic Processes
-- W. Whitt, Stochastic Process Limits
 
 
 ### Books on performance modeling
-
-- H. Kobayashi and B. L. Mark, System Modeling and Analysis
+- S. M. Ross,  Introduction to Probability Models
+- R. W. Wolff,  Stochastic Modeling and the Theory of Queues
 - E. Lazowska, J. Zahorjan, S. Graham, K. Sevcik,  Quantitative System Performance
 - D. Menasce, V. Almeida, and L. Dowdy,  Capacity Planning and Performance Modeling
-- R. Jain,  The Art of Computer Systems Performance Analysis: Techniques for Experimental Design, Measurement, Simulation, and Modeling
+
+
+### Books on statistical learning
+- Alex Smola
+- Bishop
+
 
 
