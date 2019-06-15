@@ -1,10 +1,9 @@
-# Core IR lectures <!-- omit in toc -->
+# Performance evaluation lectures <!-- omit in toc -->
 
-The following sections contain the materials for the eight core IR lectures. The core IR papers to review each week are listed here as well.
 
 ## Table of contents <!-- omit in toc -->
 
-- [IR resources](#ir-resources)
+- [QPerf resources](#ir-resources)
   - [Books](#books)
   - [Software](#software)
   - [Datasets](#datasets)
