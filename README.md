@@ -41,11 +41,10 @@ This repository contains the materials of the **CS4215: MSc Quantitative Methods
 Todays computing systems become ever complex, due to the rapid development of hardware and software technology.  It is challenging to design and run computing systems that guarantee users’ performance requirements in a resource efficient way. Various quantitative methods are applied to capture such complex system dynamics and predict metrics of interests, from the designing phase of the systems to the runtime performance, e.g., job response times and system anomaly.  To optimize the performance of computing systems, a deep understanding on those methods and their applications on the system design are essential. Having practical hand-on experience on designing experiments, deriving models, and validating results with benchmark systems will prepare students to tackle challenges of real systems. 
 
 Course topics include
-- Overview on quantitative methods and basics mathematics tools. (week 1)
-- Queueing methods for modeling computing systems (week 1 and 2)
-- Scheduling and load balancing  (week 3 )
-- Machine learning methods for modeling computing systems (week 4 )
-- Design of experiments and simulation (week 5)
+- Design of experiments and statistical tests (week 1)
+- Operational qaws and queueing methods for modeling computing systems (week 2 and 3)
+- Scheduling and load balancing  (week 4 )
+- Machine learning methods for modeling computing systems (week 5)
 - System secdurity and scability analysis (week 6)
 - Optimization and resource managment (week 7)
 
@@ -59,11 +58,11 @@ Course topics include
 
 ## Course team
 
-This distribution also fits the lecturer team of this course: [Associate Prof. Lydia Y Chen](https://lydiaychen.com/) teaches the core IR lecture. The course team is composed of a number of PhDs (all from the [Distributed System group](http://www.ds.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who focuses on the grading of the paper reviews:
+This course will be mainly taught by [Associate Prof. Lydia Y Chen](https://lydiaychen.com/) and partially by [Assitant Prof. Mitra Nasri] and [Assitant Prof. Stefanie Roos]. The course team is composed of a number of PhDs (all from the [Distributed System group](http://www.ds.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who focuses on the grading of homework:
 
 
--  Taraneh (PhD student)
--  Masoud (PhD student)
+-  [Taraneh Younesian](T.Younesian@tudelft.nl) (PhD student)
+-  [Masoud Ghassi](S.ghiassi@tudelft.nl) (PhD student)
 
 
 Lydia is the responsible instructors of this course and can jointly be reached at **y.chen-10@tudelft.nl**.
@@ -95,7 +94,7 @@ This course has no final exam, instead the grade is largely determined through t
 
 ### Homework
 - Homework 1: due in week 4
-- Homework 4: due in week 7
+- Homework 2: due in week 7
 
 ### Group projects
 - 7 predefined project topics: evaluting the systems of 
@@ -112,13 +111,13 @@ In order to pass this course, you need to fullfil **all** of the following:
 
 
 ## Detailed schedule
-- Week1: DoE 1 (done) and DoE 2 (done)
-- Week2: Operation laws (done) and probability review
-- Week3: DTMC/CTMC (done) and queueing theory (done)
+- Week1: DoE 1 (September 2nd ) and DoE 2 (September 5th)
+- Week2: Operation laws (September 9th) and probability/Statistics review (September 12)
+- Week3: DTMC/CTMC (September 16) and queueing theory (September 19)
 - Week 4:
-- Week5: ML 1 ( Logistic regression, K-means, decision tree, random forest ) and ML 2 (Support vecotr, Neural Network)
+- Week5:  clusterring and tree algorithms (Septebmer 30) and kernal and deep models (October 3)
 - Week6: 
-- Week7: Simulation and resource managment
+- Week7: optimization (October 14) and simulation (October 17)
 
 
 ## Collaboration v.s. cheating
