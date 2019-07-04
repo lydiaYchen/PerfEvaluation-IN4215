@@ -19,10 +19,7 @@ This repository contains the materials of the **CS4215: MSc Quantitative Methods
 - [Relevant references](#Relevant-references)
   - [Online lecture notes](#Online-lecture-notes)
   - [Books on performance modeling](#Books-on-performance-modeling)
-  - [Books on statistical learning](#Books-on-statistical-learning)
-[//]: # ( [Schedule](#schedule))
-- [Collaboration v.s. cheating](#collaboration-cheating)
-- [Relevent references](#relevant-references)
+  - [Books on statistical experiments and learning](#Books-on-statistical-experiments-and-learning)
 
 
 
@@ -51,9 +48,9 @@ Course topics include
 
 ## Textbooks
 -  Performance Modeling and Design of Computer Systems: Queuing Theory in Action by Mor. Harchol-Balter 
--  The Art of Computer Systems Performance Analysis by Raj Jain
--  The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Springer Series in Statistics
--  [Dive into Deep Learning](https://www.d2l.ai/) by Aelx Smola et. al.
+-  [The Art of Computer Systems Performance Analysis](https://www.cse.wustl.edu/~jain/books/perfbook.htm) by Raj Jain
+-  [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/), Springer Series in Statistics
+
 
 
 ## Course team
@@ -132,24 +129,24 @@ You are strongly encouraged to collaborate with your classmates on these problem
 
 ### Online lecture notes
 
- 
- - CUHK, [Computer System Performance Evaluation](http://www.cse.cuhk.edu.hk/~cslui/csc5420.html]Computer) , John C.S. Lui
-- Columbia,[Performance Modeling and Evaluatio](http://www.ee.columbia.edu/~egc/e6180a.html), Ed Coffman
-- UW  [Introduction to Machine Learning](http://courses.washington.edu/css581/CSS%20581%20-%20Winter%202014%20-%20syllabus.html#schedule)
-- CMU [Introduction to Machine learning]
-
+ - [Design of Experiments](https://newonlinecourses.science.psu.edu/stat503/node/5/), Penn State University
+ - [Computer System Performance Evaluation](http://www.cse.cuhk.edu.hk/~cslui/csc5420.html) , John C.S. Lui at CUHK
+- [XXX](XX), XXX
+- [Data Mining](http://personal.psu.edu/jol2/course/stat557/), Jia Li at Penn State University
+-  [Introduction to Machine learning](http://www.cs.cmu.edu/~epxing/Class/10701/), Eric Xing at arnagie Mellon University
 
 
 ### Books on performance modeling
-- S. M. Ross,  Introduction to Probability Models
-- R. W. Wolff,  Stochastic Modeling and the Theory of Queues
-- E. Lazowska, J. Zahorjan, S. Graham, K. Sevcik,  Quantitative System Performance
-- D. Menasce, V. Almeida, and L. Dowdy,  Capacity Planning and Performance Modeling
+- Introduction to Probability Models by S. M. Ross, 
+- Quantitative System Performance by E. Lazowska, J. Zahorjan, S. Graham, and K. Sevcik.
+- Capacity Planning and Performance Modeling by D. Menasce, V. Almeida, and L. Dowdy 
 
 
-### Books on statistical learning
-- Alex Smola
-- Bishop
+### Books on statistical experiments and learning
+-[Design and Analysis of Experiments] by Douglas Montgomery
+
+- [Dive into Deep Learning](https://www.d2l.ai/) by Alex Smola et. al.
+- [Pattern Recognition and Machine Learning]() by Christopher Bishop 
 
 
 

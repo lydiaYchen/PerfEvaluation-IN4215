@@ -2,12 +2,12 @@
 
 ## There are three expected milestones:
 
-1. **Project proposal** (mandatory, but ungraded - you will receive feedback): due on 
-2. **Intermediate project report** (mandatory, but ungraded - you will receive feedback): due on 
-3. **Final project report** (mandatory, graded): due on .
+1. **Project proposal** (mandatory, but ungraded - you will receive feedback): due on week 3
+2. **Intermediate project meeting** (mandatory, but ungraded - you will receive feedback): due on week 6
+3. **Final project report** (mandatory, graded): due on week 9
 4. **15 min project presentation**
 
-**Group projects are conducted in groups of 2-3 students. Please enroll together with your team members in group on Brightspace - we have predefined 40 different groups, take your pick! !**
+**Group projects are conducted in groups of 2-3 students. Please enroll together with your team members in group on Brightspace - we have predefined XXX different groups, take your pick! !**
 
 ## Grading breakdown
 - Final report: 80%
@@ -19,7 +19,7 @@
 
 ## Choosing topics
 
-You first choose a published paper that describes an IR experiment. 
+You first choose a published paper that describes performance evalution, modeling, and resource managment.
 
 Based on both types of papers, we have created two lists of papers that are well suited for the group project. Several groups can choose the same paper to reproduce (though of course it is more interesting for us instructors if that does not happen too often). To be clear: **collaborations across groups are not allowed** - every group has to work independently.
 
@@ -48,7 +48,8 @@ The proposal should contain between 300 and 400 words. Your proposal should addr
 
 ### Intermediate and final project report
 
-The **final** group project report should be **7-8 pages** long in the [SIGCHI proceedings format](https://sigchi.org/templates/) (available as LaTeX and Word templates) - even if the paper you originally chose to reproduce is 2 or 4 pages long, we still expect your report to adhere to the 7-8 page limit (think about the related work, implementation issues, analyses of results, etc. that are often underdeveloped in short papers). The **intermediate** project report is likely to be shorter (it is due a week before the final deadline), that is fine, submit whatever you have by then.
+The **final** group project report should be **6-7 pages** long in the [SIG XX proceedings format](https://sigchi.org/templates/) (available as LaTeX and Word templates) - even if the paper you originally chose to reproduce is 2 or 4 pages long, we still expect your report to adhere to the 6-7 page limit (think about the related work, implementation issues, analyses of results, etc. that are often underdeveloped in short papers). 
+[//]: # (The **intermediate** project report is likely to be shorter (it is due a week before the final deadline), that is fine, submit whatever you have by then.)
 
 We suggest the following report structure:
 
