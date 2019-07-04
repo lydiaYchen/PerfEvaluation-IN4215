@@ -2,18 +2,24 @@
 
 # IN4325 <!-- omit in toc -->
 
-This repository contains the materials of the **MSc Quantitative Methods of Performance Evalution for Computing systems** course running in 20119/20 at TU Delft (Q1). The project setup is suitable for up to 100 students.
+This repository contains the materials of the **CS4215: MSc Quantitative Methods of Performance Evalution for Computing systems** course running in 20119/20 at TU Delft (Q1). The project setup is suitable for up to 100 students.
 
 ## Table of contents <!-- omit in toc -->
-- [Important links](#important-links)
-- [Course description](#course-description)
-- [Text books](#textbooks)
-- [Course team](#course-team`
-- [ECs](#ecs)
-- [Learning objectives](#learning-objectives)
-- [:dart: Grading policy](#dart-grading-policy)
-  - [Homework](#homework)
-  - [Group projects](#group-projects)
+- [Important links](#Important-links)
+- [Course description](#Course-description)
+- [Textbooks](#Textbooks)
+- [Course team](#Course-team)
+- [ECs](#ECs)
+- [Learning objectives](#Learning-objectives)
+- [:dart: Grading policy](#dart-Grading-policy)
+  - [Homework](#Homework)
+  - [Group projects](#Group-projects)
+- [Detailed schedule](#Detailed-schedule)
+- [Collaboration v.s. cheating](#Collaboration-vs-cheating)
+- [Relevant references](#Relevant-references)
+  - [Online lecture notes](#Online-lecture-notes)
+  - [Books on performance modeling](#Books-on-performance-modeling)
+  - [Books on statistical learning](#Books-on-statistical-learning)
 [//]: # ( [Schedule](#schedule))
 - [Collaboration v.s. cheating](#collaboration-cheating)
 - [Relevent references](#relevant-references)
@@ -45,12 +51,15 @@ Course topics include
 
 
 ## Textbooks
-x`
+-  Performance Modeling and Design of Computer Systems: Queuing Theory in Action by Mor. Harchol-Balter 
+-  The Art of Computer Systems Performance Analysis by Raj Jain
+-  The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Springer Series in Statistics
+-  [Dive into Deep Learning](https://www.d2l.ai/) by Aelx Smola et. al.
 
 
 ## Course team
 
-This distribution also fits the lecturer team of this course: [Associate Prof. Lydia Y Chen](https://lydiaychen.com//) teaches the core IR lecture. The course team is composed of a number of PhDs (all from the [Distributed System group](http://www.ds.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who focuses on the grading of the paper reviews:
+This distribution also fits the lecturer team of this course: [Associate Prof. Lydia Y Chen](https://lydiaychen.com/) teaches the core IR lecture. The course team is composed of a number of PhDs (all from the [Distributed System group](http://www.ds.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who focuses on the grading of the paper reviews:
 
 
 -  Taraneh (PhD student)
