@@ -122,7 +122,9 @@ In order to pass this course, you need to fullfil **all** of the following:
 
 You will receive one homework every few weeks. These are meant to reinforce the material that we are learning during that time, so please start immediately. Please do not search the web for help on the homework problems. It is difficult to develop good homework problems, and thus you may come across similar problems if you search the web for help. 
 
-You are strongly encouraged to collaborate with your classmates on these problems, but each person must write up the final solutions individually. You should note on your homework specifically which problems were a collaborative effort and with whom.
+Earson must write up the final solutions individually. If you discussion with classmates, please make sure you still work on your homework individually without copying solutions.
+
+ You should note on your homework specifically which problems were a collaborative effort and with whom.
 
 
 ## Relevant references 
