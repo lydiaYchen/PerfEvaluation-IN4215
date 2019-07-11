@@ -16,6 +16,9 @@
 ## Evaluation criteria
 
 - The novelty of project 
+- The rigorous of applying quantiative methods
+- The performance improvement of the proposed solution
+- The completeness of report
 
 
 
