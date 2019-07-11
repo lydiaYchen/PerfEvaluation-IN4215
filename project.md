@@ -68,11 +68,12 @@ Here is list of recent papers that address different performance issues and leve
 
 The proposal should contain between 300 and 400 words. Your proposal should address the following points:
 
-1. Problem description: which problem will you tackle and what is interesting about the problem? If you reproduce a paper make sure to reference the original paper.
-2. Resources: which data and tools will you be using (this includes also existing implementations of algorithms
-3. Methodology: if you choose to reproduce a paper, tell us which part of the paper (if not all) you will reproduce; if you choose your own research idea, tell us what type of algorithm/approach you are proposing and what your baseline(s) will be
-4. Background readings: list at least 5 related papers that you will read to add context to your research
-5. Evaluation: how will you evaluate your algorithm/approach? Which evaluation metrics will you use?
+1. Problem description: which performance problem of which application will you tackle and what is novel about the problem?  
+2. Experiment setup: what workloads, and testbeds will you use?
+2. Exploration of experiments: what parameters and configurations do you plan to explore?
+3. Predictive analysis: what analytical methods will you apply and what predictive models will derive?
+5. Optimization and validation: how will you evaluate your algorithm/approach and what type of resource and algorimic suggestions will explore?
+6. Background readings: list at least 5 related papers that you will read to add context to your research
 
 **Submission**: every group uploads their proposal on Brightspace. The proposal should be in PDF format and should contain the group name and the list of group members (name, student IDs).
 
@@ -80,7 +81,7 @@ The proposal should contain between 300 and 400 words. Your proposal should addr
 
 ### Intermediate and final project report
 
-The **final** group project report should be **6-7 pages** long in the [SIG XX proceedings format](https://sigchi.org/templates/) (available as LaTeX and Word templates) - even if the paper you originally chose to reproduce is 2 or 4 pages long, we still expect your report to adhere to the 6-7 page limit (think about the related work, implementation issues, analyses of results, etc. that are often underdeveloped in short papers). 
+The **final** group project report should be **6-7 pages** long in the [IEEE conference proceedings format](https://www.overleaf.com/latex/templates/ieee-conference-template-example/nsncsyjfmpxy) (available as LaTeX and Word templates) - even if the paper you originally chose to reproduce is 2 or 4 pages long, we still expect your report to adhere to the 6-7 page limit (think about the related work, implementation issues, analyses of results, etc. that are often underdeveloped in short papers). 
  <!---The **intermediate** project report is likely to be shorter (it is due a week before the final deadline), that is fine, submit whatever you have by then.)
  -->
 
@@ -88,12 +89,13 @@ We suggest the following final report structure:
 
 - Title, authors
 - Abstract
-- Introduction: problem statement, motivation for the problem, overall plan to tackle the problem
+- Introduction: problem statement, motivation for the problem, and the overview how
 - Background: what important works does this project build on
-- Approach: what methods/algorithms did you use
-- Experiments: describe your experiments, the results and discuss them
-- Conclusions: describe what you learnt/found and what avenues for future work you see
-- References
+- Experiments: describe your setup and present the baseline results
+- Predictive models: describe your analytical approach for performance prediction
+- Optimization strategy: describe your optimization algorithms/strategies that can improve the performance 
+- Conclusions: what can be the future direction
+- References 
 
 The final report should also contain a link to a repository (or several) that contain the software you created, the scripts you used to analyze your data, etc.
 
