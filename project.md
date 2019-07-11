@@ -23,6 +23,8 @@
 
 There are two types of performance projects: (i) executions of application and (ii) trace driven analysis and simulation study.
 
+Important rule: **collaborations across groups are not allowed** - every group has to work independently. 
+
 ### Excuting applications on testbed
 
 You choose an computer application, e.g.,  web services, streaming processing, and (deep) machine learning systems, and conduct performance evalution analysis using quantiative techniques learned in the class. The aim is to discover and improve the performance issues of such an application, which is yet to be explored by the related work. To complete this project, you can perform (some of) following tasks:
@@ -31,16 +33,13 @@ You choose an computer application, e.g.,  web services, streaming processing, a
 
 - Design experiments to build a performance profiling of such an application, e.g., identify performance bottlnecks and optimal configuration.  You need to rigorously design experiments, collect the measurments, summarizes the results with appropriate statistical tests and graphic presenation.
 
-- Derive white or black model for such an application in the scenario where jobs arrive stochastic fashion. You need to collect statstics that are essential to build predictive models. 
+- Derive white or black model for such an application in the scenario where jobs arrive stochastic fashion. You need to collect statstics that are essential to build predictive models. You are welcome to try all the models and have a light-weight opimitzation section.
 
 - Optimize the application performance via designing new application algorithms, configurations of the applications, and resource provisioning. It's imporatnat you choose an approach that can improve the metrics of your interests. For example, you can desing a resource scaling algorithm such that the run time of a training job is constant for any given input by scaling the number of computing nodes. Or you can desing a scheduling algorithms.  Or you can design a communication algorithm for the distributed version of such an application, which run on distributed nodes in cloud or edge. 
-
 
 We strongly encourage you to use the following benchamrk [BigDL](https://bigdl-project.github.io), which is a deep learning benchmark suite that is easy to setup, versitle configuration files, rich functionalities, and multiple examples, including text analysis and image calssification. Your project based on this benchmark will provide some performance insights on  how to best tune modern AI jobs in a centralized or distributed way. We (the TA) will offer an additional tutorial session how to set up such a benchmark on September and provide a set of input used in the project. Here is a [detailed summary](https://arxiv.org/pdf/1206.5533.pdf) on the key parameters one can change for their neural network.
 
 Here is list of recent papers that address different performance issues and leverage performance 
-
- Several groups can choose the same paper to reproduce (though of course it is more interesting for us instructors if that does not happen too often). To be clear: **collaborations across groups are not allowed** - every group has to work independently. 
 
 
 
@@ -49,17 +48,27 @@ Here is list of recent papers that address different performance issues and leve
 
 - [Optimus.](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf) This paper first built a first-order model to capture the dynamices of neural network jobs and then design a novel cluster schedule algorithm. Extended resarch questions: how to replicate the similar idea on BigDL cluster, validation of their model for BigDL and your specific scenarios.
 
-- [Model Driven Computational Sprinting](http://web.cse.ohio-state.edu/~stewart.962/Papers/morris2018modeldriven.pdf) This paper derived tree-based machine learning models to guid the sprinting policies
+- [Model Driven Computational Sprinting](http://web.cse.ohio-state.edu/~stewart.962/Papers/morris2018modeldriven.pdf) This paper derived tree-based machine learning models to guid the sprinting policies.
 
-- https://www.usenix.org/conference/osdi18/presentation/lee
+- [Pretzel](https://www.usenix.org/conference/osdi18/presentation/lee)
 
-- https://www.usenix.org/conference/osdi18/presentation/xiao
-
-- https://www.usenix.org/conference/atc19/presentation/zhang-chengliang
-
-- https://www.usenix.org/conference/atc19/presentation/zhang-xu
+- [Gandiva](https://www.usenix.org/conference/osdi18/presentation/xiao)
 
 
+### Trace driven analysis and simulation study
+
+You have to first choose a "rich trace" from public domain, for example failure logs, bugs, and excution performance of certain applications. The aim here is to derive efficient and accuracy predictive models through trace mining and ask what-if questions via a simulator. 
+
+- Before you start, you need to decdie the metrics of intrests, e.g., latency, throughput or security volunerability, which can be extracted from the trace you choose.
+
+- Derive white or black model for such an application. You need to collect statstics feature that are essential to build predictive models. 
+
+- Develop a simulator that can use the trace as input and develop resource managment policies. For instance, using failure traces to develop failure predictiong mechanisms and failure-aware scheduling policies.  
+
+#### List of papers that can inspire you how to do performance evalution
+- [Failure prediction of big data systsems](https://lydiaychen.com/pdf/Rosa__TCS_jobfailure.pdf) I can share the trace with you if you are intrested in analyzing this trace.
+
+- more to come
 
 
 ## Report formats
