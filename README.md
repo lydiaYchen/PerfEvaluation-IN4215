@@ -1,6 +1,6 @@
 <img src="img/wordcloud.jpg" width="300px" align="middle">
 
-# IN4325 <!-- omit in toc -->
+# CS4215 <!-- omit in toc -->
 
 This repository contains the materials of the **CS4215: MSc Quantitative Methods of Performance Evalution for Computing systems** course running in 20119/20 at TU Delft (Q1). The project setup is suitable for up to 100 students.
 
