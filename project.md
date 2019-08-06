@@ -64,7 +64,7 @@ You have to first choose a "rich trace" from public domain, for example failure 
 
 - Before you start, you need to decide the metrics of interests, e.g., latency, throughput or security vulnerability, which can be extracted from the trace you choose.
 
-- Derive white or black model for such an application. You need to collect statstics feature that are essential to build predictive models. 
+- Derive white or black model for such an application. You need to collect statistics feature that are essential to build predictive models. 
 
 - Develop a simulator that can use the trace as input and develop resource management policies. For instance, using failure traces to develop failure predicting mechanisms and failure-aware scheduling policies.  
 
