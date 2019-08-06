@@ -71,7 +71,7 @@ You have to first choose a "rich trace" from public domain, for example failure 
 #### List of papers that can inspire you how to do performance evalution
 - [Failure prediction of big data systems](https://lydiaychen.com/pdf/Rosa__TCS_jobfailure.pdf) I can share the trace with you if you are interested in analyzing this trace.
 
-- more to come
+- more to come shortly
 
 
 ## Report formats
