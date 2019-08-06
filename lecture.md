@@ -2,35 +2,13 @@
 
 
 ## Table of contents <!-- omit in toc -->
- <!---
-- [QPerf resources](#ir-resources)
-  - [Books](#books)
-  - [Software](#software)
-  - [Datasets](#datasets)
-- [Lecture 1: DoE (week 3.1)](#lecture-1-evaluation-week-31)
-  - [Recommended readings](#recommended-readings)
-- [Lecture 2 : Operational (week 3.1)]
-  - [Recommended readings](#recommended-readings)
-  - [:warning: Paper P1 to review](#warning-paper-p1-to-review)
-- [Lecture 3: indexing (week 3.2)](#lecture-3-indexing-week-32)
-  - [Recommended readings](#recommended-readings)
-  - [:warning: Paper P2 to review](#warning-paper-p2-to-review)
-- [Lecture 4: query refinement (week 3.2)](#lecture-4-query-refinement-week-32)
-  - [Recommended readings](#recommended-readings)
-  - [:warning: Paper P3 to review](#warning-paper-p3-to-review)
-- [Lecture 5: interactive IR (week 3.3)](#lecture-5-interactive-ir-week-33)
-  - [Recommended readings](#recommended-readings)
-  - [:warning: Paper P4 to review](#warning-paper-p4-to-review)
-- [Lecture 6: personalization (week 3.3)](#lecture-6-personalization-week-33)
-  - [Recommended readings](#recommended-readings)
-  - [:warning: Paper P5 to review](#warning-paper-p5-to-review)
-- [Lecture 7: learning to rank (week 3.4)](#lecture-7-learning-to-rank-week-34)
-  - [Recommended readings](#recommended-readings)
-  - [:warning: Paper P6 to review](#warning-paper-p6-to-review)
-- [Lecture 8: neural IR (week 3.4)](#lecture-8-neural-ir-week-34)
-  - [Recommended readings](#recommended-readings)
-  - [:warning: Paper P7 to review](#warning-paper-p7-to-review)
--->
+About
+
+The lectures slides (PDF) are available [here]
+
+### Recommended readings
+
+
 
 
 ### Books
