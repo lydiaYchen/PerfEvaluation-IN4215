@@ -11,12 +11,12 @@
 
 ## Grading breakdown
 - Final report: 80%
-- 15 min project presenation: 20 %
+- 15 min project presentation: 20 %
 
 ## Evaluation criteria
 
 - The novelty of project 
-- The rigorous of applying quantiative methods
+- The rigorous of applying quantitative methods
 - The performance improvement of the proposed solution
 - The completeness of report
 
@@ -30,7 +30,7 @@ Important rule: **collaborations across groups are not allowed** - every group h
 
 ### Executing applications on testbed
 
-You choose a computer application, e.g.,  web services, streaming processing, and (deep) machine learning systems, and conduct performance evaluation analysis using quantiative techniques learned in the class. The aim is to discover and improve the performance issues of such an application, which is yet to be explored by the related work. To complete this project, you can perform (some of) following tasks:
+You choose a computer application, e.g.,  web services, streaming processing, and (deep) machine learning systems, and conduct performance evaluation analysis using quantitative techniques learned in the class. The aim is to discover and improve the performance issues of such an application, which is yet to be explored by the related work. To complete this project, you can perform (some of) following tasks:
 
 -Before you start, you need to decide (i) the metrics of interests, e.g., latency, throughput or security vulnerability, (ii) workload inputs, e.g, how often jobs are generated, and what job inputs to use, and (iii) the computing platforms, e.g., your laptop, Delft clusters, or Google.
 
