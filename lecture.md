@@ -2,14 +2,14 @@
 
 
 ## Table of contents <!-- omit in toc -->
-
+ <!---
 - [QPerf resources](#ir-resources)
   - [Books](#books)
   - [Software](#software)
   - [Datasets](#datasets)
 - [Lecture 1: DoE (week 3.1)](#lecture-1-evaluation-week-31)
   - [Recommended readings](#recommended-readings)
-- [Lecture 2 : Operational (week 3.1)](#lecture-2-classic-retrieval-models-week-31)
+- [Lecture 2 : Operational (week 3.1)]
   - [Recommended readings](#recommended-readings)
   - [:warning: Paper P1 to review](#warning-paper-p1-to-review)
 - [Lecture 3: indexing (week 3.2)](#lecture-3-indexing-week-32)
@@ -30,66 +30,60 @@
 - [Lecture 8: neural IR (week 3.4)](#lecture-8-neural-ir-week-34)
   - [Recommended readings](#recommended-readings)
   - [:warning: Paper P7 to review](#warning-paper-p7-to-review)
+-->
 
-## IR resources
 
 ### Books
-- *Introduction to Information Retrieval* by Manning, Raghavan and Schütze, University Press, 2008. Available online: [https://nlp.stanford.edu/IR-book/information-retrieval-book.html](https://nlp.stanford.edu/IR-book/information-retrieval-book.html).
-- Performance Modeling and Design of Computer Systems: Queuing Theory in Action by Mor. Harchol-Balter 
-- The Art of Computer Systems Performance Analysis: Techniques for Experimental Design, Measurement, Simulation, and Modeling by Raj Jian
-- The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Springer Series in Statistics.
+-
 
 ### Software
 
-A number of open-source modeling toolkits exist. They have different strengths and weaknesses. Which ones are applicable to your project depend to some extent in your *taste* of programming languages and the kind of retrieval models you are after:
+A number of open-source modeling toolkits exist. They have different strengths and weaknesses.
 
--
-- So far there is only one widely used toolkit that provides neural IR approaches: [MatchZoo](https://github.com/NTMC-Community/MatchZoo) (though be aware, it has its issues).
-
+<!--
 For evaluation purposes, [trec_eval](https://github.com/usnistgov/trec_eval) is commonly used.
+-->
 
 ### Datasets
 
-- [TREC collections](http://trec.nist.gov/data.html) (*check with us whether we have the one you want*)
-- [AOL query log](http://www.cim.mcgill.ca/~dudek/206/Logs/AOL-user-ct-collection/)
-- [Recent question answering datasets](https://github.com/chauff/conversationalIR)
+
+- 
 
 
-## Lecture 1-2: evaluation (week 1)
+## Lecture 1-2: Design of Experiments (week 1)
 
 
 
-The lectures slides (PDF) are available [here](slides/coreIR-evaluation.pdf).
+The lectures slides (PDF) are available [here](slides/lecture_week7_1_v2.pptx).
 
 ### Recommended readings
 
 - 
-- A recent [A/B testing tutorial](https://exp-platform.com/2017abtestingtutorial/) by Pavel Dmitriev.
+- 
 
 
 ## Lecture 3: Operational Law (week 2)
 
 
-The lectures slides (PDF) are available [here](slides/coreIR-retrievalModels.pdf).
+The lectures slides (PDF) are available [here]
 
 ### Recommended readings
 
 
-- Victor Lavrenko (one of the language modeling pioneers in IR) has a lot of useful [lecture videos](https://www.youtube.com/user/victorlavrenko/videos) on YouTube about language models and more general IR and machine learning concepts.
 
-## Lecture 4: Probability and Statistic (week 2)
+
+## Lecture 4: Probability and Statistic Review (week 2)
 
 
 ## Lecture 5-6: Queueing model (week 3)
 
-This lecture covers the basics of IR indexing - an area where it is worthwhile to brush up on your existing data structure knowledge.
 
-The lectures slides (PDF) are available [here](slides/coreIR-indexing.pdf).
+
+The lectures slides (PDF) are available [here]
 
 ### Recommended readings
 
-- Chapters 2, 3, 4 and 5 of Manning's et al. Introduction to Information Retrieval book ([PDF](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)).
-- Chapter 5 of Croft's et al. Search Engines - Information Retrieval in Practice book ([PDF](http://ciir.cs.umass.edu/downloads/SEIRiP.pdf)).
+- 
 
 
 
@@ -98,78 +92,45 @@ The lectures slides (PDF) are available [here](slides/coreIR-indexing.pdf).
 
 ## Lecture 7-8: Scheduling (week 4)
 
-This lecture covers a number of query refinement techniques, a hot research area, especially in web search where users typically do not enter more than two or three terms to express their information need. 
 
-Query refinement has many facets, we focused here mostly on pseudo-relevance feedback and how to incorporate it in a meaningful manner in a retrieval model.
 
-The lectures slides (PDF) are available [here](slides/coreIR-queryRefinement.pdf).
+The lectures slides (PDF) are available [here]
 
 ### Recommended readings
 
 -
-- A [survey on query autocompletion](https://www.nowpublishers.com/article/Details/INR-055) by Cai & de Rijke.
+
 
 
 
 ## Lecture 9-10: Machine learning models (week 5)
 
-This lecture covers interactive information retrieval, in particular the modeling of the search process. The lecture shows off our move towards predictive (mathematical) models and their usage to generate hypotheses which are then (in)validated in user experiments.
 
-The lectures slides (PDF) are available [here](slides/coreIR-interactiveIR.pdf).
+The lectures slides (PDF) are available [here]
 
 ### Recommended readings
 
-- A [tutorial](http://zuccon.net/publications/azzopardi-zuccon-2017-tutorial-economics.pdf) on economic models for search (set into a larger HCI context).
-
-### :warning: Paper P4 to review
-
-[Incorporating Query Expansion and Quality Indicators in Searching Microblog Posts](https://pdfs.semanticscholar.org/bfbd/8b113cf0ba2eb7301efbfbc51df2ea74bbb8.pdf).
 
 
 ## Lecture 11-12: Network and Security (week 6)
 
-This lecture is about personalization in search, with a glimpse of two classic hyperlink-based document ranking algorithms.
 
-The lectures slides (PDF) are available [here](slides/coreIR-personalization.pdf).
+The lectures slides (PDF) are available [here]
 
 ### Recommended readings
 
 
-However, it is worth pointing out a [survey on Adversarial Web Search](https://www.nowpublishers.com/article/Details/INR-021). It does not fit the brief of this lecture, but it covers a lot of ground showing how to combat adversary in web search.
 
 ### :warning: Homework 2 due next week
 
 
-## Lecture 13-14: Simulation and Resource Managment (week 7)
+## Lecture 13-14: Simulation and Resource Management (week 7)
 
-The lecture is concerned with learning to rank for IR (also known as LTR or L2R), a machine-learning approach towards the document ranking problem that can be applied to many other types of ranking problems as well.
 
-The lectures slides (PDF) are available [here](slides/coreIR-L2R.pdf).
+
+The lectures slides (PDF) are available [here]
 
 ### Recommended readings
 
 - The [Learning to Rank for IR tutorial](https://www.nowpublishers.com/article/Details/INR-016) by Tie-Yan Liu provides a global overview of many L2R approaches, and their underlying motivations and heuristics.
 
-### :warning: Paper P6 to review
-
-[Enhancing Patent Retrieval by Citation Analysis](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.96.6135&rep=rep1&type=pdf).
-
-
-## Lecture 8: neural IR (week 3.4)
-
-This lecture provides an overview of recent developments in deep learning as they apply to IR. It is self-contained and briefly introduces the basics of neural networks before focusing on IR-specific developments.
-
-The lectures slides (PDF) are available [here](slides/coreIR-neural.pdf).
-
-
-### Recommended readings
-
-There are a number of deep learning courses that provide good insights (most popular are the Stanford [computer vision](http://cs231n.stanford.edu/) and [NLP](http://web.stanford.edu/class/cs224n/) ones). Specific to IR, there are fewer resources, the three standouts are:
-
-- A 100+ page [introduction](https://www.microsoft.com/en-us/research/uploads/prod/2017/06/fntir2018-neuralir-mitra.pdf) to neural nets and neural IR models by Bhaskar Mitra and Nick Craswell.
-- An up-to-date [neural IR tutorial](http://nn4ir.com/ecir2018/) (in the form of elaborate slide decks) created by our colleagues at the University of Amsterdam, which has been given a few times by now at various IR conferences.
-- This [neural IR survey](https://link.springer.com/article/10.1007/s10791-017-9321-y) by Onal et al. is denser and requires more IR knowledge to make sense of it. It has a good overview of promising future directions.
-
-### :warning: Paper P7 to review
-
-[Query Expansion with Locally-Trained Word Embeddings](http://www.aclweb.org/anthology/P16-1035).
