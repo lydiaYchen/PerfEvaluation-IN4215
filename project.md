@@ -28,19 +28,19 @@ There are two types of performance projects: (i) executions of application and (
 
 Important rule: **collaborations across groups are not allowed** - every group has to work independently. 
 
-### Excuting applications on testbed
+### Executing applications on testbed
 
-You choose a computer application, e.g.,  web services, streaming processing, and (deep) machine learning systems, and conduct performance evalution analysis using quantiative techniques learned in the class. The aim is to discover and improve the performance issues of such an application, which is yet to be explored by the related work. To complete this project, you can perform (some of) following tasks:
+You choose a computer application, e.g.,  web services, streaming processing, and (deep) machine learning systems, and conduct performance evaluation analysis using quantiative techniques learned in the class. The aim is to discover and improve the performance issues of such an application, which is yet to be explored by the related work. To complete this project, you can perform (some of) following tasks:
 
--Before you start, you need to decdie (i) the metrics of intrests, e.g., latency, throughput or security volunerability, (ii) workload inputs, e.g, how often jobs are generated, and what job inputs to use, and (iii) the computing platforms, e.g., your laptop, Delft clusters, or Google.
+-Before you start, you need to decide (i) the metrics of interests, e.g., latency, throughput or security vulnerability, (ii) workload inputs, e.g, how often jobs are generated, and what job inputs to use, and (iii) the computing platforms, e.g., your laptop, Delft clusters, or Google.
 
-- Design experiments to build a performance profiling of such an application, e.g., identify performance bottlnecks and optimal configuration.  You need to rigorously design experiments, collect the measurments, summarizes the results with appropriate statistical tests and graphic presenation.
+- Design experiments to build a performance profiling of such an application, e.g., identify performance bottlenecks and optimal configuration.  You need to rigorously design experiments, collect the measurements, summarizes the results with appropriate statistical tests and graphic presentations.
 
-- Derive white or black model for such an application in the scenario where jobs arrive stochastic fashion. You need to collect statstics that are essential to build predictive models. You are welcome to try all the models and have a light-weight opimitzation section.
+- Derive white or black model for such an application in the scenario where jobs arrive stochastic fashion. You need to collect statistics that are essential to build predictive models. You are welcome to try all the models and have a light-weight optimization section.
 
-- Optimize the application performance via designing new application algorithms, configurations of the applications, and resource provisioning. It's imporatnat you choose an approach that can improve the metrics of your interests. For example, you can desing a resource scaling algorithm such that the run time of a training job is constant for any given input by scaling the number of computing nodes. Or you can desing a scheduling algorithms.  Or you can design a communication algorithm for the distributed version of such an application, which run on distributed nodes in cloud or edge. 
+- Optimize the application performance via designing new application algorithms, configurations of the applications, and resource provisioning. It's important you choose an approach that can improve the metrics of your interests. For example, you can design a resource scaling algorithm such that the run time of a training job is constant for any given input by scaling the number of computing nodes. Or you can design a scheduling algorithms.  Or you can design a communication algorithm for the distributed version of such an application, which run on distributed nodes in cloud or edge. 
 
-We strongly encourage you to use the following benchamrk [BigDL](https://bigdl-project.github.io), which is a deep learning benchmark suite that is easy to setup, versitle configuration files, rich functionalities, and multiple examples, including text analysis and image calssification. Your project based on this benchmark will provide some performance insights on  how to best tune modern AI jobs in a centralized or distributed way. We (the TA) will offer an additional tutorial session how to set up such a benchmark on September and provide a set of input used in the project. Here is a [detailed summary](https://arxiv.org/pdf/1206.5533.pdf) on the key parameters one can change for their neural network.
+We strongly encourage you to use the following benchmark [BigDL](https://bigdl-project.github.io), which is a deep learning benchmark suite that is easy to setup, versatile configuration files, rich functionalities, and multiple examples, including text analysis and image classification. Your project based on this benchmark will provide some performance insights on  how to best tune modern AI jobs in a centralized or distributed way. We (the TA) will offer an additional tutorial session how to set up such a benchmark on September and provide a set of input used in the project. Here is a [detailed summary](https://arxiv.org/pdf/1206.5533.pdf) on the key parameters one can change for their neural network.
 
 Here is list of recent papers that address different performance issues and leverage performance 
 
@@ -49,7 +49,7 @@ Here is list of recent papers that address different performance issues and leve
 #### List of papers that can inspire you how to do performance evalution
 
 
-- [Optimus.](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf) This paper first built a first-order model to capture the dynamices of neural network jobs and then design a novel cluster schedule algorithm. Extended resarch questions: how to replicate the similar idea on BigDL cluster, validation of their model for BigDL and your specific scenarios.
+- [Optimus.](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf) This paper first built a first-order model to capture the dynamics of neural network jobs and then design a novel cluster schedule algorithm. Extended research questions: how to replicate the similar idea on BigDL cluster, validation of their model for BigDL and your specific scenarios.
 
 - [Model Driven Computational Sprinting](http://web.cse.ohio-state.edu/~stewart.962/Papers/morris2018modeldriven.pdf) This paper derived tree-based machine learning models to guid the sprinting policies.
 
@@ -60,16 +60,16 @@ Here is list of recent papers that address different performance issues and leve
 
 ### Trace driven analysis and simulation study
 
-You have to first choose a "rich trace" from public domain, for example failure logs, bugs, and excution performance of certain applications. The aim here is to derive efficient and accuracy predictive models through trace mining and ask what-if questions via a simulator. 
+You have to first choose a "rich trace" from public domain, for example failure logs, bugs, and execution performance of certain applications. The aim here is to derive efficient and accuracy predictive models through trace mining and ask what-if questions via a simulator. 
 
-- Before you start, you need to decdie the metrics of intrests, e.g., latency, throughput or security volunerability, which can be extracted from the trace you choose.
+- Before you start, you need to decide the metrics of interests, e.g., latency, throughput or security vulnerability, which can be extracted from the trace you choose.
 
 - Derive white or black model for such an application. You need to collect statstics feature that are essential to build predictive models. 
 
-- Develop a simulator that can use the trace as input and develop resource managment policies. For instance, using failure traces to develop failure predictiong mechanisms and failure-aware scheduling policies.  
+- Develop a simulator that can use the trace as input and develop resource management policies. For instance, using failure traces to develop failure predicting mechanisms and failure-aware scheduling policies.  
 
 #### List of papers that can inspire you how to do performance evalution
-- [Failure prediction of big data systsems](https://lydiaychen.com/pdf/Rosa__TCS_jobfailure.pdf) I can share the trace with you if you are intrested in analyzing this trace.
+- [Failure prediction of big data systems](https://lydiaychen.com/pdf/Rosa__TCS_jobfailure.pdf) I can share the trace with you if you are interested in analyzing this trace.
 
 - more to come
 
@@ -84,7 +84,7 @@ The proposal should contain between 300 and 400 words. Your proposal should addr
 2. Experiment setup: what workloads, and testbeds will you use?
 2. Exploration of experiments: what parameters and configurations do you plan to explore?
 3. Predictive analysis: what analytical methods will you apply and what predictive models will derive?
-5. Optimization and validation: how will you evaluate your algorithm/approach and what type of resource and algorimic suggestions will explore?
+5. Optimization and validation: how will you evaluate your algorithm/approach and what type of resource and algorithmic suggestions will explore?
 6. Background readings: list at least 5 related papers that you will read to add context to your research
 
 **Submission**: every group uploads their proposal on Brightspace. The proposal should be in PDF format and should contain the group name and the list of group members (name, student IDs).
