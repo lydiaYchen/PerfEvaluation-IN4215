@@ -108,7 +108,7 @@ In order to pass this course, you need to fullfil **all** of the following:
 
 
 ## Detailed schedule
-- Week1: DoE 1 (September 2nd ) and DoE 2 (September 5th)
+- Week1: Design of experiments 1 (September 2nd ) and Design of experiments II (September 5th)
 - Week2: Operation laws (September 9th) and probability/Statistics review (September 12)
 - Week3: DTMC/CTMC (September 16) and queueing theory (September 19)
 - Week 4:
@@ -122,9 +122,9 @@ In order to pass this course, you need to fullfil **all** of the following:
 
 You will receive one homework every few weeks. These are meant to reinforce the material that we are learning during that time, so please start immediately. Please do not search the web for help on the homework problems. It is difficult to develop good homework problems, and thus you may come across similar problems if you search the web for help. 
 
-Earson must write up the final solutions individually. If you discussion with classmates, please make sure you still work on your homework individually without copying solutions.
+Each perrson must write up the final solutions individually. If you discussion with classmates, please make sure you still work on your homework individually without copying solutions.
 
- You should note on your homework specifically which problems were a collaborative effort and with whom.
+
 
 
 ## Relevant references 
@@ -133,7 +133,6 @@ Earson must write up the final solutions individually. If you discussion with cl
 
  - [Design of Experiments](https://newonlinecourses.science.psu.edu/stat503/node/5/), Penn State University
  - [Computer System Performance Evaluation](http://www.cse.cuhk.edu.hk/~cslui/csc5420.html) , John C.S. Lui at CUHK
-- [XXX](XX), XXX
 - [Data Mining](http://personal.psu.edu/jol2/course/stat557/), Jia Li at Penn State University
 -  [Introduction to Machine learning](http://www.cs.cmu.edu/~epxing/Class/10701/), Eric Xing at arnagie Mellon University
 
