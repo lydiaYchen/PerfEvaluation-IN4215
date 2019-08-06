@@ -7,7 +7,7 @@
 3. **Final project report** (mandatory, graded): due on week 9
 4. **20 min project presentation**
 
-**Group projects are conducted in groups of 2-3 students. Please enroll together with your team members in group on Brightspace - we have predefined XXX different groups, take your pick! !**
+**Group projects are conducted in groups of 2-3 students. Please enroll together with your team members in group on Brightspace ! !**
 
 ## Grading breakdown
 - Final report: 80%
