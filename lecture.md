@@ -54,7 +54,7 @@ For evaluation purposes, [trec_eval](https://github.com/usnistgov/trec_eval) is 
 
 
 
-The lectures slides (PDF) are available [here](slides/lecture_week7_1_v2.pptx).
+The lectures slides (PDF) are available [here](Slide/lecture_week7_1_v2.pptx).
 
 ### Recommended readings
 
