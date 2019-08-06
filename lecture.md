@@ -34,7 +34,7 @@
 
 
 ### Books
--
+
 
 ### Software
 
@@ -52,38 +52,46 @@ For evaluation purposes, [trec_eval](https://github.com/usnistgov/trec_eval) is 
 
 ## Lecture 1-2: Design of Experiments (week 1)
 
-
+About.
 
 The lectures slides (PDF) are available [here](Slide/Lecture_week7_1_v2.pptx).
 
 ### Recommended readings
 
-- 
-- 
-
 
 ## Lecture 3: Operational Law (week 2)
 
+About
 
 The lectures slides (PDF) are available [here]
 
 ### Recommended readings
-
 
 
 
 ## Lecture 4: Probability and Statistic Review (week 2)
 
-
-## Lecture 5-6: Queueing model (week 3)
-
-
+About
 
 The lectures slides (PDF) are available [here]
 
 ### Recommended readings
 
-- 
+
+
+
+## Lecture 5-6: Queueing Model (week 3)
+
+About
+
+The lectures slides (PDF) are available [here]
+
+### Recommended readings
+
+
+
+
+
 
 
 
@@ -93,12 +101,13 @@ The lectures slides (PDF) are available [here]
 ## Lecture 7-8: Scheduling (week 4)
 
 
+About
 
 The lectures slides (PDF) are available [here]
 
 ### Recommended readings
 
--
+
 
 
 
@@ -106,31 +115,39 @@ The lectures slides (PDF) are available [here]
 ## Lecture 9-10: Machine learning models (week 5)
 
 
+About
+
 The lectures slides (PDF) are available [here]
 
 ### Recommended readings
+
+
 
 
 
 ## Lecture 11-12: Network and Security (week 6)
 
 
+About
+
 The lectures slides (PDF) are available [here]
 
 ### Recommended readings
+
 
 
 
 ### :warning: Homework 2 due next week
 
 
-## Lecture 13-14: Simulation and Resource Management (week 7)
+## Lecture 13-14: Optimization and Simulation  (week 7)
 
 
+About
 
 The lectures slides (PDF) are available [here]
 
 ### Recommended readings
 
-- The [Learning to Rank for IR tutorial](https://www.nowpublishers.com/article/Details/INR-016) by Tie-Yan Liu provides a global overview of many L2R approaches, and their underlying motivations and heuristics.
+
 
