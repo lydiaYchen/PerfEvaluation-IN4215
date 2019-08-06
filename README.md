@@ -2,7 +2,7 @@
 
 # IN4215 <!-- omit in toc -->
 
-This repository contains the materials of the **IN4215: MSc Quantitative Methods of Performance Evalution for Computing systems** course running in 20119/20 at TU Delft (Q1). The project setup is suitable for up to 100 students.
+This repository contains the materials of the **IN4215: MSc Quantitative Methods of Performance Evaluation for Computing systems** course running in 20119/20 at TU Delft (Q1). The project setup is suitable for up to 100 students.
 
 ## Table of contents <!-- omit in toc -->
 - [Important links](#Important-links)
@@ -26,8 +26,8 @@ This repository contains the materials of the **IN4215: MSc Quantitative Methods
 ## Important links
 
 - [Lectures notes](lecture.md)
-- [Project descrition](project.md)
-- [Homework assigments](homework.md)
+- [Project description](project.md)
+- [Homework assignments](homework.md)
 
 
 ## Course description
@@ -39,11 +39,11 @@ Todays computing systems become ever complex, due to the rapid development of ha
 
 Course topics include
 - Design of experiments and statistical tests (week 1)
-- Operational qaws and queueing methods for modeling computing systems (week 2 and 3)
+- Operational laws and queueing methods for modeling computing systems (week 2 and 3)
 - Scheduling and load balancing  (week 4 )
 - Machine learning methods for modeling computing systems (week 5)
-- System secdurity and scability analysis (week 6)
-- Optimization and resource managment (week 7)
+- System security and scalability analysis (week 6)
+- Optimization and resource management (week 7)
 
 
 ## Textbooks
@@ -55,7 +55,7 @@ Course topics include
 
 ## Course team
 
-This course will be mainly taught by [Associate Prof. Lydia Y Chen](https://lydiaychen.com/) and partially by [Assitant Prof. Mitra Nasri] and [Assitant Prof. Stefanie Roos]. The course team is composed of a number of PhDs (all from the [Distributed System group](http://www.ds.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who focuses on the grading of homework:
+This course will be mainly taught by [Associate Prof. Lydia Y Chen](https://lydiaychen.com/) and partially by [Assistant Prof. Mitra Nasri] and [Assistant Prof. Stefanie Roos]. The course team is composed of a number of PhDs (all from the [Distributed System group](http://www.ds.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who focuses on the grading of homework:
 
 
 -  [Taraneh Younesian](T.Younesian@tudelft.nl) (PhD student)
@@ -94,9 +94,9 @@ This course has no final exam, instead the grade is largely determined through t
 - Homework 2: due in week 7
 
 ### Group projects
-- 7 predefined project topics: evaluting the systems of 
+- 7 predefined project topics: evaluating the systems of 
 - Group size: 2-3 students
-- Schedule: interim meeting (week 6), report due (week 9), and presntation/interview (week 9)
+- Schedule: interim meeting (week 6), report due (week 9), and presentation/interview (week 9)
 
 At the end of each project phase we will conduct a short interview (20 minutes per group) about the group project and its connection to the course content. Based on the project report and the interview, each member of the group receives a grade. 
 
@@ -112,7 +112,7 @@ In order to pass this course, you need to fullfil **all** of the following:
 - Week2: Operation laws (September 9th) and probability/Statistics review (September 12)
 - Week3: DTMC/CTMC (September 16) and queueing theory (September 19)
 - Week 4:
-- Week5:  clusterring and tree algorithms (Septebmer 30) and kernal and deep models (October 3)
+- Week5:  clustering and tree algorithms (September 30) and kernal and deep models (October 3)
 - Week6: 
 - Week7: optimization (October 14) and simulation (October 17)
 
@@ -122,7 +122,7 @@ In order to pass this course, you need to fullfil **all** of the following:
 
 You will receive one homework every few weeks. These are meant to reinforce the material that we are learning during that time, so please start immediately. Please do not search the web for help on the homework problems. It is difficult to develop good homework problems, and thus you may come across similar problems if you search the web for help. 
 
-Each perrson must write up the final solutions individually. If you discussion with classmates, please make sure you still work on your homework individually without copying solutions.
+Each pearson must write up the final solutions individually. If you discussion with classmates, please make sure you still work on your homework individually without copying solutions.
 
 
 
@@ -134,7 +134,7 @@ Each perrson must write up the final solutions individually. If you discussion w
  - [Design of Experiments](https://newonlinecourses.science.psu.edu/stat503/node/5/), Penn State University
  - [Computer System Performance Evaluation](http://www.cse.cuhk.edu.hk/~cslui/csc5420.html) , John C.S. Lui at CUHK
 - [Data Mining](http://personal.psu.edu/jol2/course/stat557/), Jia Li at Penn State University
--  [Introduction to Machine learning](http://www.cs.cmu.edu/~epxing/Class/10701/), Eric Xing at arnagie Mellon University
+-  [Introduction to Machine learning](http://www.cs.cmu.edu/~epxing/Class/10701/), Eric Xing at Carnagie Mellon University
 
 
 ### Books on performance modeling

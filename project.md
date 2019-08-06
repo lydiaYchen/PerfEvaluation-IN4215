@@ -30,7 +30,7 @@ Important rule: **collaborations across groups are not allowed** - every group h
 
 ### Excuting applications on testbed
 
-You choose an computer application, e.g.,  web services, streaming processing, and (deep) machine learning systems, and conduct performance evalution analysis using quantiative techniques learned in the class. The aim is to discover and improve the performance issues of such an application, which is yet to be explored by the related work. To complete this project, you can perform (some of) following tasks:
+You choose a computer application, e.g.,  web services, streaming processing, and (deep) machine learning systems, and conduct performance evalution analysis using quantiative techniques learned in the class. The aim is to discover and improve the performance issues of such an application, which is yet to be explored by the related work. To complete this project, you can perform (some of) following tasks:
 
 -Before you start, you need to decdie (i) the metrics of intrests, e.g., latency, throughput or security volunerability, (ii) workload inputs, e.g, how often jobs are generated, and what job inputs to use, and (iii) the computing platforms, e.g., your laptop, Delft clusters, or Google.
 
