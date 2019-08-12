@@ -19,13 +19,13 @@
 - The rigorous of applying quantitative methods
 - The performance improvement of the proposed solution
 - The completeness of report
-- Mini
+- Minimum scores
 
 
 
 ## Choosing topics
 
-There are different aspect of performance projects on modeling the executions of deep neural network jobs.  
+There are different aspects of performance  on modeling and optimizing the executions of deep neural network jobs. In this project, you will play with benchmarks that emulate the training jobs of deep neural networks on top of Spark platform - one of the most popular platform. You can build a model to predict the performance such jobs, to optimize their response times through resource allocations and scheduling, and to test the dependability of such a cluster against malicious attacks. 
 
 Important rule: **collaborations across groups are not allowed** - every group has to work independently. 
 

@@ -55,7 +55,7 @@ Course topics include
 
 ## Course team
 
-This course will be mainly taught by [Associate Prof. Lydia Y Chen](https://lydiaychen.com/) and partially by [Assistant Prof. Mitra Nasri] and [Assistant Prof. Stefanie Roos]. The course team is composed of a number of PhDs (all from the [Distributed System group](http://www.ds.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who focuses on the grading of homework:
+This course will be mainly taught by [Associate Prof. Lydia Y Chen](https://lydiaychen.com/) and partially by [Assistant Prof. Mitra Nasri] and [Assistant Prof. Stefanie Roos]. The course team is composed of a number of PhDs (all from the [Distributed System group](http://www.ds.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who focuses on the grading of homework. The TA office hour will be one hour right after each lecture. TA will answer your questions about homework in their office (Building 28 3E050) 
 
 
 -  [Taraneh Younesian](T.Younesian@tudelft.nl) (PhD student)
@@ -64,7 +64,6 @@ This course will be mainly taught by [Associate Prof. Lydia Y Chen](https://lydi
 
 Lydia is the responsible instructors of this course and can jointly be reached at **y.chen-10@tudelft.nl**.
 
-[//]: # (The whole course team ` email address to join!)
 
 ## ECs
 
@@ -82,21 +81,27 @@ This is a **5 EC course**, with **140 hours** of course work in total. We expect
 
 This course has no final exam, instead the grade is largely determined through three components: 
 
-1. Homework (50%): 2 individual homework due in week 4 and 7. Each homework accounts 25% of the grade and cover 3 weeks material. Homework will be given in week 1 and 4. Students have three weeks time to complete them. 
-2. Group project (50%): group project report (40%) and presentation (10%). There will be 7 predefined projects students can choose from. There will be an interim discussion with each team in week 6. The final report will be due in week 9, and 20 minutes presentation in week 9 as well.
+1. Homework (50%): 2 individual homework due in week 4 (September 27 Friday 8 am) and 7 (October 18 Friday 8 am). Each homework accounts 25% of the grade and cover 3 weeks material. Homework will be given in week 1 and 4. Students have three weeks time to complete them. 
+
+Late submission will result into 10% point reduction per day. 
+
+2. Group project (50%): group project report (40%) and presentation (10%). There will be topics of modeling response times, configuring, dependability, scheduling dessign. There will be an initial proposal in week 3, interim discussion with each team in week 6. The final report will be due in week 9, and 20 minutes presentation in week 9 as well.
 
 
-**All assessment items (reviews, projects reports) have to be submitted via Brightspace.**
+**All assessment items (homework, and projects reports) have to be submitted via Brightspace.**
 
 
 ### Homework
-- Homework 1: due in week 4
-- Homework 2: due in week 7
+- Homework 1: due in week 4 (September 27, 8 AM)
+- Homework 2: due in week 7 (October 18, 8 AM)
 
 ### Group projects
-- 7 predefined project topics: evaluating the systems of 
+<!-- 7 predefined project topics: evaluating the systems of 
+-->
+There are different aspects of performance  on modeling and optimizing the executions of deep neural network jobs. In this project, you will play with benchmarks that emulate the training jobs of deep neural networks on top of Spark platform - one of the most popular platform. You can build a model to predict the performance such jobs, to optimize their response times through resource allocations and scheduling, and to test the dependability of such a cluster against malicious attacks. You will do this project in a group with 1-2 other peers.
+
 - Group size: 2-3 students
-- Schedule: interim meeting (week 6), report due (week 9), and presentation/interview (week 9)
+- Schedule: initial proposal (week 3), interim meeting (week 6), report due (week 9), and presentation/interview (week 9)
 
 At the end of each project phase we will conduct a short interview (20 minutes per group) about the group project and its connection to the course content. Based on the project report and the interview, each member of the group receives a grade. 
 
@@ -111,9 +116,9 @@ In order to pass this course, you need to fullfil **all** of the following:
 - Week1: Design of experiments 1 (September 2nd ) and Design of experiments II (September 5th)
 - Week2: Operation laws (September 9th) and probability/Statistics review (September 12)
 - Week3: DTMC/CTMC (September 16) and queueing theory (September 19)
-- Week 4:
+- Week 4: scheduling policies
 - Week5:  clustering and tree algorithms (September 30) and kernal and deep models (October 3)
-- Week6: 
+- Week6: network dependability
 - Week7: optimization (October 14) and simulation (October 17)
 
 
@@ -137,6 +142,7 @@ Each pearson must write up the final solutions individually. If you discussion w
 -  [Introduction to Machine learning](http://www.cs.cmu.edu/~epxing/Class/10701/), Eric Xing at Carnagie Mellon University
 
 
+
 ### Books on performance modeling
 - Introduction to Probability Models by S. M. Ross, 
 - Quantitative System Performance by E. Lazowska, J. Zahorjan, S. Graham, and K. Sevcik.
@@ -144,10 +150,10 @@ Each pearson must write up the final solutions individually. If you discussion w
 
 
 ### Books on statistical experiments and learning
--[Design and Analysis of Experiments] by Douglas Montgomery
-
+- [Design and Analysis of Experiments] (http://faculty.business.utsa.edu/manderso/STA4723/readings/Douglas-C.-Montgomery-Design-and-Analysis-of-Experiments-Wiley-2012.pdf) by Douglas Montgomery
 - [Dive into Deep Learning](https://www.d2l.ai/) by Alex Smola et. al.
 - [Pattern Recognition and Machine Learning]() by Christopher Bishop 
+
 
 
 
