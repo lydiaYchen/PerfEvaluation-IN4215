@@ -19,12 +19,13 @@
 - The rigorous of applying quantitative methods
 - The performance improvement of the proposed solution
 - The completeness of report
+- Mini
 
 
 
 ## Choosing topics
 
-There are two types of performance projects: (i) executions of application and (ii) trace driven analysis and simulation study.
+There are different aspect of performance projects on modeling the executions of deep neural network jobs.  
 
 Important rule: **collaborations across groups are not allowed** - every group has to work independently. 
 
@@ -46,7 +47,7 @@ Here is list of recent papers that address different performance issues and leve
 
 
 
-#### List of papers that can inspire you how to do performance evalution
+#### List of papers that can inspire you how to do performance evaluation
 
 
 - [Optimus.](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf) This paper first built a first-order model to capture the dynamics of neural network jobs and then design a novel cluster schedule algorithm. Extended research questions: how to replicate the similar idea on BigDL cluster, validation of their model for BigDL and your specific scenarios.
@@ -57,7 +58,7 @@ Here is list of recent papers that address different performance issues and leve
 
 - [Gandiva](https://www.usenix.org/conference/osdi18/presentation/xiao)
 
-
+<!--
 ### Trace driven analysis and simulation study
 
 You have to first choose a "rich trace" from public domain, for example failure logs, bugs, and execution performance of certain applications. The aim here is to derive efficient and accuracy predictive models through trace mining and ask what-if questions via a simulator. 
@@ -68,11 +69,11 @@ You have to first choose a "rich trace" from public domain, for example failure 
 
 - Develop a simulator that can use the trace as input and develop resource management policies. For instance, using failure traces to develop failure predicting mechanisms and failure-aware scheduling policies.  
 
-#### List of papers that can inspire you how to do performance evalution
+#### List of papers that can inspire you how to do performance evaluation
 - [Failure prediction of big data systems](https://lydiaychen.com/pdf/Rosa__TCS_jobfailure.pdf) I can share the trace with you if you are interested in analyzing this trace.
 
 - more to come shortly
-
+-->
 
 ## Report formats
 
