@@ -5,7 +5,7 @@
 
 
 
-
+(Will fix the slide links soon)
 
 
 ## Lecture 1-2: Design of Experiments (week 1)
@@ -54,7 +54,7 @@ In this lecture, you will learn how to derive stochastic models, being discrete 
 The lectures slides (PDF) are available [here]
 
 ### Recommended readings
-Performance Modeling and Design of Computer Systems: Queuing Theory in Action: chapter 8, 10, 12, 13 and 14
+- Performance Modeling and Design of Computer Systems: Queuing Theory in Action: chapter 8, 10, 12, 13 and 14
 - The Art of Computer Systems Performance Analysis: chapter 30, 31
 
 
@@ -85,8 +85,8 @@ In this lecture, you will learn how to predict failure behaviors of computer sys
 The lectures slides (PDF) are available [here]
 
 ### Recommended readings
--The Elements of Statistical Learning: Data Mining, Inference, and Prediction: chapter 9, 10, 15, 12, 11  (the order reflecting the sequence in the lecture orders)
--Dive into Deep Learning: chapter 3 and 4
+- The Elements of Statistical Learning: Data Mining, Inference, and Prediction: chapter 9, 10, 15, 12, 11  (the order reflecting the sequence in the lecture orders)
+- Dive into Deep Learning: chapter 3 and 4
 
 
 

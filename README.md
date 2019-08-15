@@ -2,7 +2,9 @@
 
 # IN4215 <!-- omit in toc -->
 
-This repository contains the materials of the **IN4215: MSc Quantitative Methods of Performance Evaluation for Computing systems** course running in 20119/20 at TU Delft (Q1). The project setup is suitable for up to 100 students.
+This repository contains the materials of the **IN4215: MSc Quantitative Methods of Performance Evaluation for Computing systems** course running in 20119/20 at TU Delft (Q1). 
+<!--The project setup is suitable for up to 100 students.
+-->
 
 ## Table of contents <!-- omit in toc -->
 - [Important links](#Important-links)
