@@ -1,4 +1,4 @@
-# Performance modeling project
+# Performance modeling group project
 
 ## There are three expected milestones:
 
@@ -6,6 +6,7 @@
 2. **Intermediate project meeting** (mandatory, but ungraded - you will receive feedback): due on week 6
 3. **Final project report** (mandatory, graded): due on week 9
 4. **20 min project presentation**
+(mandatory, graded): due on week 9
 
 **Group projects are conducted in groups of 2-3 students. Please enroll together with your team members in group on Brightspace ! !**
 
@@ -15,17 +16,17 @@
 
 ## Evaluation criteria
 
-- The novelty of project 
+- The novelty of proposed project 
 - The rigorous of applying quantitative methods
-- The performance improvement of the proposed solution
-- The completeness of report
-- To get the passing grades, you need to execute different types of workloads, i.e., data sets, training of different machine learning models, number of Spark executors, and provide and present the rigorous comparative analysis. 
+- The performance improvement of the proposed solutions
+- The completeness of  report
+- To get the passing grades, you need to execute and analyze different types of workloads, i.e., data sets, training of different deep learning models, number of Spark executors, and present the rigorous comparative analysis. 
 
 
 
 ## Choosing topics
 
-There are different aspects of performance  on modeling and optimizing the executions of training deep neural network jobs. In this project, you will play with benchmarks that emulate the training jobs of deep neural networks on top of Spark platform - one of the most popular big data processing platform. You can build a model to predict the performance such jobs, to optimize their response times through resource allocations and scheduling, and to test the dependability of such a cluster against malicious attacks. 
+There are different aspects of performance  on modeling and optimizing the executions of training deep neural network jobs, e.g., job response times, job accuracies, cluster utilization/energy, and dependability. In this project, you will play with benchmarks that emulate the training jobs of deep neural networks on top of Spark platform - one of the most popular big data processing platform. You will build models to predict the performance such jobs, to optimize their response times through resource allocations and scheduling, and to evaluate/test the dependability of such a cluster against malicious attacks or careless configurations/set-up.
 
 Important rule: **collaborations across groups are not allowed** - every group has to work independently. 
 
@@ -33,9 +34,9 @@ Important rule: **collaborations across groups are not allowed** - every group h
 
 The benchmark you will fiddle is [BigDL](https://bigdl-project.github.io), which is a deep learning benchmark suite that is easy to setup, versatile configuration files, rich functionalities, and multiple examples, including text analysis and image classification. Your project based on this benchmark will provide some performance insights on  how to best tune modern AI jobs in a centralized or distributed way. We (the TA) will offer an additional tutorial session how to set up such a benchmark on September 12 and provide a set of input used in the project. 
 
-Note that  we will provide a VM, which packages all the softwares needed to run BigDL and a workload generator that can emulate the users for such a systems. The benchmark and installation manual can be found here (coming soon).
+Note that  we will provide a VM, which packages all the softwares needed to run BigDL and a workload generator that can emulate the users for such systems. The benchmark and installation manual can be found here (coming soon).
 
- You set up BigDL benchmarks on a computing platform, being your laptops or cluster. You need to analyze their performance using quantitative techniques learned in the class. The aim is to discover and improve the performance issues of such an application, which is yet to be explored by the related work. To complete this project, you can perform (some of) following tasks:
+ You set up BigDL benchmarks on a computing platform, being your laptops or any cluster. You need to analyze their performance using quantitative techniques learned in the class. The aim is to analyzie, discover and improve the performance issues of such an application, which is yet to be explored by the related work. To complete this project, you can perform (some of) following tasks:
 
 
 
@@ -43,7 +44,7 @@ Note that  we will provide a VM, which packages all the softwares needed to run 
 
 - Design experiments to build a performance profiling of such an application, e.g., identify performance bottlenecks and optimal configuration.  You need to rigorously design experiments, collect the measurements, summarizes the results with appropriate statistical tests and graphic presentations.
 
-- Derive white or black model for such an application in the scenario where jobs arrive stochastic fashion. You need to collect statistics that are essential to build predictive models. You are welcome to try all the models and have a light-weight optimization section.
+- Derive white or black model for such an application in the scenario where jobs arrive stochastic fashion. You need to collect statistics that are essential to build predictive models. You are welcome to try all the models and have a light-weight optimization section. You can also study how such benchmarks can withstand different imperfect conditions, such as node failures (e.g., neural network layer nodes or spark nodes) or data packet dropped. 
 
 - Optimize the application performance via designing new application algorithms, configurations of the applications, and resource provisioning. It's important you choose an approach that can improve the metrics of your interests. For example, you can design a resource scaling algorithm such that the run time of a training job is constant for any given input by scaling the number of computing nodes. Or you can design a scheduling algorithms.  Or you can design a communication algorithm for the distributed version of such an application, which run on distributed nodes in cloud or edge. 
 
@@ -54,13 +55,17 @@ Note that  we will provide a VM, which packages all the softwares needed to run 
 #### List of papers that can inspire you how to do performance evaluation
 
 
-- [Optimus.](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf) This paper first built a first-order model to capture the dynamics of neural network jobs and then design a novel cluster schedule algorithm. Extended research questions: how to replicate the similar idea on BigDL cluster, validation of their model for BigDL and your specific scenarios.
+- [Optimus.](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf) This paper is published at Eurosys18. This paper first built a first-order model to capture the dynamics of neural network jobs and then design a novel cluster schedule algorithm. Extended research questions: how to replicate the similar idea on BigDL cluster, validation of their model for BigDL and your specific scenarios.
 
-- [Model Driven Computational Sprinting](http://web.cse.ohio-state.edu/~stewart.962/Papers/morris2018modeldriven.pdf) This paper derived tree-based machine learning models to guid the sprinting policies.
+- [Model Driven Computational Sprinting](http://web.cse.ohio-state.edu/~stewart.962/Papers/morris2018modeldriven.pdf)  This paper is published at Eurosys18. This paper derived tree-based machine learning models to guid the sprinting policies.
 
-- [Pretzel](https://www.usenix.org/conference/osdi18/presentation/lee)
 
-- [Gandiva](https://www.usenix.org/conference/osdi18/presentation/xiao)
+- [Gandiva](https://www.usenix.org/conference/osdi18/presentation/xiao). This paper is published at OSDI18. This paper proposed scheduling algorithms for GPU clusters that run deep learning applications. The insight of Gandiva is that deep learning jobs have a lot of repetitive executions and hence Gandiva dynamically migrates the jobs across GPU.
+
+- [AGGREGATHOR](https://www.sysml.cc/doc/2019/54.pdf) This paper is published at SysML19. This paper presented a fault-tolerance framework for stochastic gradient decent, the state of the art deep neural network solver. It evaluated how image classification jobs can resiliently against corrupted data and dropped packets. 
+
+- [Pretzel](https://www.usenix.org/conference/osdi18/presentation/lee) This paper is published at OSDI18. This paper gave a complete overview on how machine learning pipelines are used in production systems and advocate "white-box" approach to improve the state-of-art "black-box " approaches for such learning systems.
+
 
 <!--
 ### Trace driven analysis and simulation study
@@ -124,4 +129,4 @@ The final project report is graded in combination with the project interview. Th
 
 ## Interviews
 
-The 20 minute interviews per group will be scheduled on ** October 28 ** and ** October 29 . 
+The 20 minute interviews per group will be scheduled on ** October 28 ** and ** October 29 ** . 
