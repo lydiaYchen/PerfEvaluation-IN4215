@@ -3,7 +3,6 @@
 * 2. [Course description](#Coursedescription)
 * 3. [Textbooks](#Textbooks)
 * 4. [Course team](#Courseteam)
-* 5. [ECs](#ECs)
 * 6. [Learning objectives](#Learningobjectives)
 * 7. [:dart: Grading policy](#dart:Gradingpolicy)
 	* 7.1. [Homework](#Homework)
@@ -62,7 +61,7 @@ Course topics include
 This course will be mainly taught by [Prof. Lydia Y Chen]([https://lydiaychen.github.io/])  The course team is composed of a number of PhDs  who support the course through guest lectures and project supervision and a TA who focuses on the grading of homework. 
 
 
--  [Jeroen Gj](Jeroen Galjaard <J.M.Galjaard@tudelft.nl>l) (PhD student)
+-  [Jeroen Galjaard](Jeroen Galjaard <J.M.Galjaard@tudelft.nl>l) (PhD student)
 
 
 Lydia is the responsible instructors of this course and can jointly be reached at **lydiaychen@ieee.org**.
@@ -83,7 +82,7 @@ Lydia is the responsible instructors of this course and can jointly be reached a
 
 This course has no final exam, instead the grade is largely determined through three components: 
 
-1. Homework (50%): 2 individual homework due in week 4 (September 27 Friday 8 am) and 7 (October 18 Friday 8 am). Each homework accounts 25% of the grade and cover 3 weeks material. Homework will be given in week 1 and 4. Students have three weeks time to complete them. 
+1. Homework (30%): 3 individual homework due in week 4, 7, 10. Each homework accounts 10  of the grade and cover 3 weeks material. Homework will be given 2 Students have three weeks time to complete them. 
 
 Late submission will result into 10% point reduction per day. 
 
@@ -94,8 +93,9 @@ Late submission will result into 10% point reduction per day.
 
 
 ###  7.1. <a name='Homework'></a>Homework
-- Homework 1: due in week 4 (September 27, 8 AM)
-- Homework 2: due in week 7 (October 18, 8 AM)
+- Homework 1: due in week 4 
+- Homework 2: due in week 7 
+- Homework 3: due in week 10 
 
 Students are given additional 72 hours grace period for late submission and will not receive any grade penalty. However, submissions after 72 hours grace period will not be considered and students will loose 25 points of their final grade. 
 
@@ -106,7 +106,7 @@ Students are given additional 72 hours grace period for late submission and will
 There are different aspects of performance  on modeling and optimizing the executions of deep neural network jobs. In this project, you will play with benchmarks that emulate the training jobs of deep neural networks on top of Spark platform - one of the most popular platform. You can build a model to predict the performance such jobs, to optimize their response times through resource allocations and scheduling, and to test the dependability of such a cluster against malicious attacks. You will do this project in a group with 1-2 other peers.
 
 - Group size: 2-3 students
-- Schedule: initial proposal (week 3), interim meeting (week 6), report due (week 9), and presentation/interview (week 9)
+- Schedule: initial proposal (week 5), interim meeting (week 9), report due (week 11), and presentation/interview (week 11)
 
 At the end of each project phase we will conduct a short interview (20 minutes per group) about the group project and its connection to the course content. Based on the project report and the interview, each member of the group receives a grade. 
 
@@ -118,13 +118,13 @@ In order to pass this course, you need to fullfil **all** of the following:
 
 
 ##  8. <a name='Detailedschedule'></a>Detailed schedule
-- Week1: Design of experiments 1 (September 2nd ) and Design of experiments II (September 5th)
-- Week2: Operation laws (September 9th) and probability/Statistics review (September 12)
-- Week3: DTMC/CTMC (September 16) and queueing theory (September 19)
-- Week 4: scheduling policies
-- Week5:  clustering and tree algorithms (September 30) and kernal and deep models (October 3)
-- Week6: network dependability
-- Week7: optimization (October 14) and simulation (October 17)
+- Week1/2: Design of experiments 1  and Design of experiments II )
+- Week3: Operation laws (September 9th) and probability/Statistics review 
+- Week4/5/6: DTMC/CTMC (September 16) and queueing theory 
+- Week 7: scheduling policies
+- Week 8/9/10:  clustering and tree algorithms (September 30) and kernal and deep models
+- Week 11: network dependability
+- Week 12: optimization (October 14) and simulation
 
 
 ##  9. <a name='Collaborationv.s.cheating'></a>Collaboration v.s. cheating
