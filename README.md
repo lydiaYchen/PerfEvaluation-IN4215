@@ -22,9 +22,9 @@
 <!-- /vscode-markdown-toc --><!-- vscode-markdown-toc -->
 
 
-# IN4215 <!-- omit in toc -->
+# QPEC <!-- omit in toc -->
 
-This repository contains the materials of the **IN4215: MSc Quantitative Methods of Performance Evaluation for Computing systems** course running in 20119/20 at TU Delft (Q1). 
+This repository contains the materials of the ** MSc Quantitative Methods of Performance Evaluation for Computing systems** course running in 2023/24 at UNINE (Fall). 
 
 
 ##  1. <a name='Importantlinks'></a>Important links
@@ -42,12 +42,12 @@ This repository contains the materials of the **IN4215: MSc Quantitative Methods
 Todays computing systems become ever complex, due to the rapid development of hardware and software technology.  It is challenging to design and run computing systems that guarantee users’ performance requirements in a resource efficient way. Various quantitative methods are applied to capture such complex system dynamics and predict metrics of interests, from the designing phase of the systems to the runtime performance, e.g., job response times and system anomaly.  To optimize the performance of computing systems, a deep understanding on those methods and their applications on the system design are essential. Having practical hand-on experience on designing experiments, deriving models, and validating results with benchmark systems will prepare students to tackle challenges of real systems. 
 
 Course topics include
-- Design of experiments and statistical tests (week 1)
-- Operational laws and queueing methods for modeling computing systems (week 2 and 3)
-- Scheduling and load balancing  (week 4 )
-- Machine learning methods for modeling computing systems (week 5)
-- System security and scalability analysis (week 6)
-- Optimization and resource management (week 7)
+- Design of experiments and statistical tests 
+- Operational laws and queueing methods for modeling computing systems
+- Scheduling and load balancing  
+- Machine learning methods for modeling computing systems 
+- System security and scalability analysis
+- Optimization and resource management
 
 
 ##  3. <a name='Textbooks'></a>Textbooks
@@ -59,19 +59,17 @@ Course topics include
 
 ##  4. <a name='Courseteam'></a>Course team
 
-This course will be mainly taught by [Associate Prof. Lydia Y Chen](https://lydiaychen.com/) and partially by [Assistant Prof. Mitra Nasri](http://www.st.ewi.tudelft.nl/mitra/) and [Assistant Prof. Stefanie Roos]. The course team is composed of a number of PhDs (all from the [Distributed System group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/stefanie-roos/) who support the course through guest lectures and project supervision and a TA who focuses on the grading of homework. The TA office hour will be one hour right after each lecture. TA will answer your questions about homework in their office (Building 28 3E050) 
+This course will be mainly taught by [Prof. Lydia Y Chen]([https://lydiaychen.github.io/])  The course team is composed of a number of PhDs  who support the course through guest lectures and project supervision and a TA who focuses on the grading of homework. 
 
 
--  [Taraneh Younesian](T.Younesian@tudelft.nl) (PhD student)
--  [Masoud Ghassi](S.ghiassi@tudelft.nl) (PhD student)
+-  [Jeroen Gj](Jeroen Galjaard <J.M.Galjaard@tudelft.nl>l) (PhD student)
 
 
-Lydia is the responsible instructors of this course and can jointly be reached at **y.chen-10@tudelft.nl**.
+Lydia is the responsible instructors of this course and can jointly be reached at **lydiaychen@ieee.org**.
 
+[//]: <> 5. <a name='ECs'></a>ECs
 
-##  5. <a name='ECs'></a>ECs
-
-This is a **5 EC course**, with **140 hours** of course work in total. We expect you to spread the load evenly across the 9 course weeks.
+[//]: <>This is a **5 EC course**, with **140 hours** of course work in total. We expect you to spread the load evenly across the 9 course weeks.
 
 ##  6. <a name='Learningobjectives'></a>Learning objectives
 
