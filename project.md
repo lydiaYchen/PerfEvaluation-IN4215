@@ -1,26 +1,39 @@
 # Performance modeling group project
 
+There are different aspects of performance on modelling and optimizing the executions of deep neural network jobs. In this project, you will play with benchmarks that emulate the training jobs of deep neural networks on top of Kubernetes - one of the most popular platforms for distributed computing. You can build models to predict the performance such jobs, to optimize their response times through resource allocations and scheduling, and to test the dependability of such a cluster against malicious attacks. You will do this project in a group with 1-2 other peers.
+
 ## There are three expected milestones:
 
-1. **Project proposal** (mandatory, but ungraded - you will receive feedback): due on week 3
-2. **Intermediate project meeting** (mandatory, but ungraded - you will receive feedback): due on week 6
-3. **Final project report** (mandatory, graded): due on week 9
+1. **Project proposal** (mandatory, but ungraded - you will receive feedback): due on week XX
+2. **Intermediate project meeting** (mandatory, but ungraded - you will receive feedback): due on week XX
+3. **Final project report** (mandatory, graded): due on week XX
 4. **20 min project presentation**
-(mandatory, graded): due on week 9
+(mandatory, graded): due on week XX
 
-**Group projects are conducted in groups of 2-3 students. Please enroll together with your team members in group on Brightspace ! !**
+**Group projects are conducted in groups of 2-3 students. Please enroll together with your team members in group on ILISA ! !**
 
 ## Grading breakdown
-- Final report: 80%
-- 15 min project presentation: 20 %
+- Final report: 65%
+- 15 min project presentation: 15 %
+- Individual contribution: 20%
+
+## Google testbed platform for (Kubernetes ) FLTK
+
+Each team will be given a Google Cloud Platform coupon to set up their project and run their experiments. To request the Google coupon, you will need to follow the link below and provide your XXX email address and name. Then, an email will be sent to you to confirm these details before a coupon is sent to you.
+
+Details about the coupon:
+
+Link: Student Coupon Retrieval link&nbsp;
+Validation of coupon: now toXX
+You can only request ONE code per unique email address.
 
 ## Evaluation criteria
-
-- The novelty of proposed project 
-- The rigorous of applying quantitative methods
-- The performance improvement of the proposed solutions
-- The completeness of  report
-- To get the passing grades, you need to execute and analyze different types of workloads, i.e., data sets, training of different deep learning models, number of Spark executors, and present the rigorous comparative analysis. 
+- The novelty of the proposed project.
+- The rigorous of applying quantitative methods. The more methods applied, the higher the score.
+- The performance improvement of the proposed solutions, compared to the based line performance (defined by you).
+- The scale of the experiments, i.e., the number of servers, the number of data sets, the number of training algorithms.
+- The completeness of the report.
+- To get the passing grades, you need to execute and analyze at least two types of ML workloads on three different system configuration, using at least one modelling method.
 
 
 
