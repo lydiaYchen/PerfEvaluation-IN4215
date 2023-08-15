@@ -67,9 +67,9 @@ This course will be mainly taught by [Prof. Lydia Y Chen]([https://lydiaychen.gi
 
 Lydia is the responsible instructors of this course and can jointly be reached at **lydiaychen@ieee.org**.
 
-[//]:# (5. <a name='ECs'></a>ECs)
+[//]: # (5. <a name='ECs'></a>ECs)
 
-[//]:# (This is a **5 EC course**, with **140 hours** of course work in total. We expect you to spread the load evenly across the 9 course weeks.)
+[//]: # (This is a **5 EC course**, with **140 hours** of course work in total. We expect you to spread the load evenly across the 9 course weeks.)
 
 ##  6. <a name='Learningobjectives'></a>Learning objectives
 
