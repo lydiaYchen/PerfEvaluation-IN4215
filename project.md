@@ -142,4 +142,4 @@ The final project report is graded in combination with the project interview. Th
 
 ## Interviews
 
-The 20 minute interviews per group will be scheduled on ** October 28 ** and ** October 29 ** . 
+The 20 minute interviews per group will be scheduled on ** XXX ** and ** XX ** . 
