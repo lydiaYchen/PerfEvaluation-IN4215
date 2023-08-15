@@ -45,57 +45,39 @@ Important rule: **collaborations across groups are not allowed** - every group h
 
 ### Executing applications on testbed
 
-The benchmark you will fiddle is [BigDL](https://bigdl-project.github.io), which is a deep learning benchmark suite that is easy to setup, versatile configuration files, rich functionalities, and multiple examples, including text analysis and image classification. Your project based on this benchmark will provide some performance insights on  how to best tune modern AI jobs in a centralized or distributed way. We (the TA) will offer an additional tutorial session how to set up such a benchmark on September 12 and provide a set of input used in the project. 
+he benchmark you will fiddle with is (Kubernetes) FLTK, which is a deep learning benchmark suite built by our group. Your project based on this benchmark will provide some performance insights on how to best tune modern AI jobs in a centralized or distributed way. We (the TA) will offer an additional tutorial session on how to set up such a benchmark in the second week of the course and provide a set of inputs used in the project.
 
-Note that  we will provide a VM, which packages all the softwares needed to run BigDL and a workload generator that can emulate the users for such systems. The benchmark and installation manual can be found here (coming soon).
+Note that we will provide a VM, which packages all the software needed to run (Kubernetes) FLTK and a workload generator that can emulate the users for such systems. The benchmark and installation manual can be found here (Performance_Evaluation_Project).
 
- You set up BigDL benchmarks on a computing platform, being your laptops or any cluster. You need to analyze their performance using quantitative techniques learned in the class. The aim is to analyzie, discover and improve the performance issues of such an application, which is yet to be explored by the related work. To complete this project, you can perform (some of) following tasks:
+You set up (Kubernetes) FLTK benchmarks on a computing platform, being your laptops or any cluster of machines (eg., on the google cloud). You need to analyze their performance using quantitative techniques learned in the class. The aim is to analyze, discover and improve the performance issues of such an application, which is yet to be explored by the related work. To complete this project, you can perform (some of) following tasks:
 
+Before you start, you need to decide (i) the metrics of interests, e.g., latency, throughput or security vulnerability, (ii) workload inputs, e.g, how often jobs are generated, and what job inputs to use, and (iii) the computing platforms, e.g., your laptop, Delft clusters, or Google.
 
+Design experiments to build a performance profiling of such an application, e.g., identify performance bottlenecks and optimal configuration. You need to rigorously design experiments, collect the measurements, summarizes the results with appropriate statistical tests and graphic presentations.
 
-- Before you start, you need to decide (i) the metrics of interests, e.g., latency, throughput or security vulnerability, (ii) workload inputs, e.g, how often jobs are generated, and what job inputs to use, and (iii) the computing platforms, e.g., your laptop, Delft clusters, or Google.
+Derive a white or black model for such an application in the scenario where jobs arrive stochastic fashion. You need to collect statistics that are essential to building predictive models. You are welcome to try all the models and have a light-weight optimization section. You can also study how such benchmarks can withstand different imperfect conditions, such as node failures (e.g., neural network layer nodes or spark nodes) or data packet drops.
 
-- Design experiments to build a performance profiling of such an application, e.g., identify performance bottlenecks and optimal configuration.  You need to rigorously design experiments, collect the measurements, summarizes the results with appropriate statistical tests and graphic presentations.
-
-- Derive white or black model for such an application in the scenario where jobs arrive stochastic fashion. You need to collect statistics that are essential to build predictive models. You are welcome to try all the models and have a light-weight optimization section. You can also study how such benchmarks can withstand different imperfect conditions, such as node failures (e.g., neural network layer nodes or spark nodes) or data packet dropped. 
-
-- Optimize the application performance via designing new application algorithms, configurations of the applications, and resource provisioning. It's important you choose an approach that can improve the metrics of your interests. For example, you can design a resource scaling algorithm such that the run time of a training job is constant for any given input by scaling the number of computing nodes. Or you can design a scheduling algorithms.  Or you can design a communication algorithm for the distributed version of such an application, which run on distributed nodes in cloud or edge. 
-
+Optimize the application performance via designing new application algorithms, configurations of the applications, and resource provisioning. You must choose an approach that can improve the metrics of your interests. For example, you can design a resource scaling algorithm such that the run time of a training job is constant for any given input by scaling the number of computing nodes. Or you can design scheduling algorithms. Or you may even design a communication algorithm for the distributed version of such an application, which can run on distributed nodes in a cloud or edge like fashion.
 
 
 
 
 #### List of papers that can inspire you how to do performance evaluation
+- Prediction-Based Power Oversubscription in Cloud Platforms. https://www.usenix.org/conference/atc21/presentation/kumbhare
 
+- Habitat: A Runtime-Based Computational Performance Predictor for Deep Neural Network Training. https://www.usenix.org/conference/atc21/presentation/yu
 
-- [Optimus.](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf) This paper is published at Eurosys18. This paper first built a first-order model to capture the dynamics of neural network jobs and then design a novel cluster schedule algorithm. Extended research questions: how to replicate the similar idea on BigDL cluster, validation of their model for BigDL and your specific scenarios.
+- INFaaS: Automated Model-less Inference Serving. https://www.usenix.org/conference/atc21/presentation/romero
 
-- [Model Driven Computational Sprinting](http://web.cse.ohio-state.edu/~stewart.962/Papers/morris2018modeldriven.pdf)  This paper is published at Eurosys18. This paper derived tree-based machine learning models to guid the sprinting policies.
+- Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads. https://www.usenix.org/conference/osdi20/presentation/narayanan-deepak
 
+- Elastic Parameter Server Load Distribution in Deep Learning Clusters. https://dl.acm.org/doi/10.1145/3419111.3421307
 
-- [Gandiva](https://www.usenix.org/conference/osdi18/presentation/xiao). This paper is published at OSDI18. This paper proposed scheduling algorithms for GPU clusters that run deep learning applications. The insight of Gandiva is that deep learning jobs have a lot of repetitive executions and hence Gandiva dynamically migrates the jobs across GPU.
+- InferLine: Latency-Aware Provisioning and Scaling for Prediction Serving Pipeline. https://arxiv.org/abs/1812.01776
 
-- [AGGREGATHOR](https://www.sysml.cc/doc/2019/54.pdf) This paper is published at SysML19. This paper presented a fault-tolerance framework for stochastic gradient decent, the state of the art deep neural network solver. It evaluated how image classification jobs can resiliently against corrupted data and dropped packets. 
+- AlloX: compute allocation in hybrid clusters This paper is published at Eurosys19. Modern deep learning frameworks support a variety of hardware, including CPU, GPU, and other accelerators, to perform computation. This paper study how to schedule jobs over such interchangeable resources - each with a different rate of computation - to optimize performance while providing fairness among users in a shared cluster.
 
-- [Pretzel](https://www.usenix.org/conference/osdi18/presentation/lee) This paper is published at OSDI18. This paper gave a complete overview on how machine learning pipelines are used in production systems and advocate "white-box" approach to improve the state-of-art "black-box " approaches for such learning systems.
-
-
-<!--
-### Trace driven analysis and simulation study
-
-You have to first choose a "rich trace" from public domain, for example failure logs, bugs, and execution performance of certain applications. The aim here is to derive efficient and accuracy predictive models through trace mining and ask what-if questions via a simulator. 
-
-- Before you start, you need to decide the metrics of interests, e.g., latency, throughput or security vulnerability, which can be extracted from the trace you choose.
-
-- Derive white or black model for such an application. You need to collect statistics feature that are essential to build predictive models. 
-
-- Develop a simulator that can use the trace as input and develop resource management policies. For instance, using failure traces to develop failure predicting mechanisms and failure-aware scheduling policies.  
-
-#### List of papers that can inspire you how to do performance evaluation
-- [Failure prediction of big data systems](https://lydiaychen.com/pdf/Rosa__TCS_jobfailure.pdf) I can share the trace with you if you are interested in analyzing this trace.
-
-- more to come shortly
--->
+- HetPipe: Enabling Large DNN Training on(Whimpy) Heterogeneous GPU Clusters This paper is published at ATC20. It is inevitable to use heterogeneous GPU to train deep neural network due to the short release cycle of new GPU architectures. This paper investigates how to enable training of large DNN models on a heterogeneous GPU cluster.
 
 ## Report formats
 
