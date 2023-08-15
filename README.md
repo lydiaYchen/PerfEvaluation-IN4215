@@ -71,11 +71,11 @@ Lydia is the responsible instructors of this course and can jointly be reached a
 [//]: # (This is a **5 EC course**, with **140 hours** of course work in total. We expect you to spread the load evenly across the 9 course weeks.)
 
 ##  6. <a name='Learningobjectives'></a>Learning objectives
-
-- Apply queueing and machine-learning models to analyze performance of modern computing systems, e.g., web servers, cloud systems, machine learning clusters, and datacenters.
-- Derive models to predict the performance of selected computing system designs, e.g., the average latency, failure, energy consumption, and scalability
-- Design experiments to profile applications and their workloads, extracting key inputs for the derived queueing and machine-learning models
-- Develop resource provisioning policies and validate them on real computing systems
+- LO1. Design full/fractional factorial experiments for multi-variate regression analysis, e.g., finding critical parameters for deep learning clusters.
+- LO2. Apply queueing theory to analyse and predict the run-time performance of applications, e.g., the average response times of on-line ML training service.
+- LO3. Apply machine learning models to analyse and predict the system dependability, e.g, root cause analysis for machine failure.
+- LO4. Conduct experiments to profile applications and extract their workload parameters on real systems, e.g., deep learning clusters
+- LO5. Develop resource management policies and validate them on real computing systems, e.g., deep learning clusters
 
 
 ##  7. <a name='dart:Gradingpolicy'></a>:dart: Grading policy
@@ -118,13 +118,13 @@ In order to pass this course, you need to fullfil **all** of the following:
 
 
 ##  8. <a name='Detailedschedule'></a>Detailed schedule
-- Week1/2: Design of experiments 1  and Design of experiments II )
-- Week3: Operation laws (September 9th) and probability/Statistics review 
-- Week4/5/6: DTMC/CTMC (September 16) and queueing theory 
-- Week 7: scheduling policies
-- Week 8/9/10:  clustering and tree algorithms (September 30) and kernal and deep models
-- Week 11: network dependability
-- Week 12: optimization (October 14) and simulation
+- Lecture 1-3: Introduction, Analysis of Variation (ANOVA), Design of experiments (DoE).
+- Lecture 4: Practical Lab on the Project's platform (FLDK).
+- Lecture 5: Operational Law.
+- Lecture 6 - 7: Discrete/continuous Markov Chain.
+- Lecture 8 - 9: Queueing theory Scheduling policies.
+- Lecture 10-12: Time series analysis, clustering and (deep) classification models.
+- Lecture 13-14: Paper discussions.
 
 
 ##  9. <a name='Collaborationv.s.cheating'></a>Collaboration v.s. cheating
