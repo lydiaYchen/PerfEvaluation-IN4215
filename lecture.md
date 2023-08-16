@@ -5,7 +5,7 @@
 
 
 
-(Will fix the slide links soon)
+(I am update the page. Will be done by the September 15.)
 
 
 ## Lecture 1-2: Design of Experiments 
