@@ -8,11 +8,11 @@
 (Will fix the slide links soon)
 
 
-## Lecture 1-2: Design of Experiments (
+## Lecture 1-2: Design of Experiments 
 
 In this lecture, you will learn how to compare computing systems/algorithms with different configurations, using statistical tests, e.g., ANOVA tests and confidence intervals. Moreover, you will learn how to design "efficient experiments" to figure out the the critical factors and the impact of their levels, e.g., regression.
 
-The lectures slides (PDF) are available [here](Slide/Lecture_week7_1_v2.pptx).
+The lectures slides (PDF) are available [here]
 
 ### Recommended readings
 - The Art of Computer Systems Performance Analysis: chapter 16, 17, 19, 29, 21, and 23
@@ -65,13 +65,10 @@ The lectures slides (PDF) are available [here]
 ## Lecture 7-8: Scheduling 
 
 
-About
 
 The lectures slides (PDF) are available [here]
 
 ### Recommended readings
-
-
 
 
 
@@ -91,15 +88,13 @@ The lectures slides (PDF) are available [here]
 
 
 
-## Lecture 11-12: Network and Security 
+## Lecture 11-12: 
 
 
-About
 
 The lectures slides (PDF) are available [here]
 
 ### Recommended readings
-
 
 
 
