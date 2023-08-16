@@ -1,18 +1,20 @@
+
+:warning: **I am still developing the course content. The content will be only be finalized by the end of the first week of the semester.**
+
 <!-- vscode-markdown-toc -->
 * 1. [Important links](#Importantlinks)
 * 2. [Course description](#Coursedescription)
 * 3. [Textbooks](#Textbooks)
 * 4. [Course team](#Courseteam)
-* 6. [Learning objectives](#Learningobjectives)
-* 7. [:dart: Grading policy](#dart:Gradingpolicy)
-	* 7.1. [Homework](#Homework)
+* 5. [Learning objectives](#Learningobjectives)
+* 6. [:dart: Grading policy](#dart:Gradingpolicy)
+	* 6.1. [Homework](#Homework)
 	* 7.2. [Group projects](#Groupprojects)
-* 8. [Detailed schedule](#Detailedschedule)
-* 9. [Collaboration v.s. cheating](#Collaborationv.s.cheating)
-* 10. [Relevant references](#Relevantreferences)
-	* 10.1. [Online lecture notes](#Onlinelecturenotes)
-	* 10.2. [Books on performance modeling](#Booksonperformancemodeling)
-	* 10.3. [Books on statistical experiments and learning](#Booksonstatisticalexperimentsandlearning)
+* 7. [Detailed schedule](#Detailedschedule)
+* 8. [Collaboration v.s. cheating](#Collaborationv.s.cheating)
+* 8. [Relevant references](#Relevantreferences)
+	* 8.1. [Online lecture notes](#Onlinelecturenotes)
+	* 8.1
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -23,7 +25,7 @@
 
 # QPEC <!-- omit in toc -->
 
-This repository contains the materials of the ** MSc Quantitative Methods of Performance Evaluation for Computing systems** course running in 2023/24 at UNINE (Fall). 
+This repository contains the materials of the **MSc Quantitative Methods of Performance Evaluation for Computing systems** course running in fall 2023 at UNINE.
 
 
 ##  1. <a name='Importantlinks'></a>Important links
@@ -58,17 +60,15 @@ Course topics include
 
 ##  4. <a name='Courseteam'></a>Course team
 
-This course will be mainly taught by [Prof. Lydia Y Chen]([https://lydiaychen.github.io/])  The course team is composed of a number of PhDs  who support the course through guest lectures and project supervision and a TA who focuses on the grading of homework. 
+This course will be mainly taught by [Prof. Lydia Y Chen](https://lydiaychen.github.io/)  The course team is composed of a number of PhDs  who support the course through guest lectures and project supervision and a TA who focuses on the grading of homework. 
 
 
--  [Jeroen Galjaard](Jeroen Galjaard <J.M.Galjaard@tudelft.nl>l) (PhD student)
+-  [Jeroen Galjaard](J.M.Galjaard@tudelft.nl) (TU DPhD student)
 
 
 Lydia is the responsible instructors of this course and can jointly be reached at **lydiaychen@ieee.org**.
 
-[//]: # (5. <a name='ECs'></a>ECs)
 
-[//]: # (This is a **5 EC course**, with **140 hours** of course work in total. We expect you to spread the load evenly across the 9 course weeks.)
 
 ##  6. <a name='Learningobjectives'></a>Learning objectives
 - LO1. Design full/fractional factorial experiments for multi-variate regression analysis, e.g., finding critical parameters for deep learning clusters.
