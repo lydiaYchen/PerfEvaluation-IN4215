@@ -92,7 +92,7 @@ The proposal should contain between 300 and 400 words. Your proposal should addr
 5. Optimization and validation: how will you evaluate your algorithm/approach and what type of resource and algorithmic suggestions will explore?
 6. Background readings: list at least 5 related papers that you will read to add context to your research
 
-**Submission**: every group uploads their proposal on Brightspace. The proposal should be in PDF format and should contain the group name and the list of group members (name, student IDs).
+**Submission**: every group uploads their proposal on ILIAS. The proposal should be in PDF format and should contain the group name and the list of group members (name, student IDs).
 
 **Feedback**: the course team will provide feedback on the project proposal within a few days.
 
