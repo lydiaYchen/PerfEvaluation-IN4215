@@ -61,7 +61,7 @@ Course topics include
 This course will be mainly taught by [Prof. Lydia Y Chen](https://lydiaychen.github.io/)  The course team is composed of a number of PhDs  who support the course through guest lectures and project supervision and a TA who focuses on the grading of homework. 
 
 
--  [Jeroen Galjaard](J.M.Galjaard@tudelft.nl) (TU DPhD student)
+-  [Jeroen Galjaard](mailto:J.M.Galjaard@tudelft.nl) (TUD PhD student)
 
 
 Lydia is the responsible instructors of this course and can jointly be reached at **lydiaychen@ieee.org**.
