@@ -1,4 +1,17 @@
-# Homework
+# QPECS Homework
+
+-   [Homework](#homework-structure){#toc-homework-structure}
+    -   [Q&A + Classroom
+        instructions](#qa--classroom-instructions){#toc-qa--classroom-instructions}
+-   [Pointers for submitting to
+    Ilias](#pointers-for-submitting-to-ilias){#toc-pointers-for-submitting-to-ilias}
+    -   [Tips for Your
+        Report](#tips-for-your-report){#toc-tips-for-your-report}
+    -   [Pointers for
+        Reviews](#pointers-for-reviews){#toc-pointers-for-reviews}
+
+
+## Homework Structure
 > In short, there are 3 peer reviewed homeworks. TA staff will be available online weekly for questions. Additionally there will be 3 offline tutorial sessions to discuss the exercises prepare for the peer review.
 
 Throughout the course, we will cover various topics for Quantative Performance Evaluation of Computer Systems (QPECS). Part of your evaluation will consist of peer-reviewed homework problem sets. Grading is done through peer reviews; as such, both your solutions and reviews submitted by you will influence your homework grade.
@@ -25,7 +38,7 @@ The in-person classroom sessions are scheduled during the classroom sessions; TA
 
 Note that the offline sessions (see above) will be in-classroom setting, providing a two-fold opportunity to 1) check your understanding of the exercises and ask questions and 2) prepare for and get started with the peer review.
 
-# Pointers for submitting to Ilias
+## Pointers for Submitting to Ilias
 
 > In short, submit a single file (PDF) on Ilias in an anonymized format (NO STUDENT ID, NO NAME, NO IDENTIFIABLE INFORMATION). Ensure to 1) show intermediate steps, 2) add partial solutions, and 3) have the document well-structured.
 
@@ -36,7 +49,7 @@ Work in a structured document to make reviewing easy for your peers. We advise u
 ⚠️ You may want to include scanned versions of written solutions in your submission. However, ensure the work is readable for your peers; illegible (parts of) submissions are graded as incomplete/incorrect.
 
 
-## Tips for Your Report
+### Tips for Your Report
 
 We advise the following two ways of creating a report of your solutions to submit to Ilias.
 
