@@ -1,14 +1,11 @@
 # QPECS Homework
 
--   [Homework](#homework-structure){#toc-homework-structure}
-    -   [Q&A + Classroom
-        instructions](#qa--classroom-instructions){#toc-qa--classroom-instructions}
+-   [Homework](#homework-structure)
+    -   [Q&A + Classroom instructions](#qa--classroom-instructions)
 -   [Pointers for submitting to
-    Ilias](#pointers-for-submitting-to-ilias){#toc-pointers-for-submitting-to-ilias}
-    -   [Tips for Your
-        Report](#tips-for-your-report){#toc-tips-for-your-report}
-    -   [Pointers for
-        Reviews](#pointers-for-reviews){#toc-pointers-for-reviews}
+    Ilias](#pointers-for-submitting-to-ilias)
+    -   [Tips for Your Report](#tips-for-your-report)
+    -   [Pointers for Reviews](#pointers-for-reviews)
 
 
 ## Homework Structure
@@ -28,15 +25,7 @@ The Homework release cycle will consist of 5 stages.
 
 QPECS' TA staff is available weekly during online Q&A sessions, where you can pose your questions.
 
-The in-person classroom sessions are scheduled during the classroom sessions; TA staff will be present offline to go over the exercises and discuss questions.
-
-| Week | Date             | Deadline          |
-|------|------------------|-------------------|
-| 2    | 2nd of October   | 27th of September |
-| 5    | 23rd of October  | 20th of October   |
-| 9    | 19th of November | 16th of November  |
-
-Note that the offline sessions (see above) will be in-classroom setting, providing a two-fold opportunity to 1) check your understanding of the exercises and ask questions and 2) prepare for and get started with the peer review.
+The in-person classroom sessions are scheduled during the classroom sessions; TA staff will be present offline to go over the exercises and discuss questions. Note that the offline sessions will be a in-classroom tutorial setting, providing a two-fold opportunity to 1) check your understanding of the exercises and ask questions, 2) prepare for and get started with the peer review.
 
 ## Pointers for Submitting to Ilias
 
