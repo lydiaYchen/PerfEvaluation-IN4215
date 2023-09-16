@@ -47,7 +47,7 @@ The lectures slides (PDF) are available [here]
 
 
 
-## Lecture 5-6: Queueing Model 
+## Lecture 5-8: Stochastis models and queueing Model 
 
 In this lecture, you will learn how to derive stochastic models, being discrete and continuous Markovian chains, for computing systems, e.g., datacenters, and web services. You will learn a range of queueing models that can predict and approximate the response times of computing jobs. With those models, you will be answer the design questions like number of cores, virtual machines and containers for different applications. 
 
@@ -56,19 +56,6 @@ The lectures slides (PDF) are available [here]
 ### Recommended readings
 - Performance Modeling and Design of Computer Systems: Queuing Theory in Action: chapter 8, 10, 12, 13 and 14
 - The Art of Computer Systems Performance Analysis: chapter 30, 31
-
-
-
-
-
-
-## Lecture 7-8: Scheduling 
-
-
-
-The lectures slides (PDF) are available [here]
-
-### Recommended readings
 
 
 
@@ -87,21 +74,7 @@ The lectures slides (PDF) are available [here]
 
 
 
-
-## Lecture 11-12: 
-
-
-
-The lectures slides (PDF) are available [here]
-
-### Recommended readings
-
-
-
-### :warning: Homework 2 due next week
-
-
-## Lecture 13-14: Optimization and Simulation  
+## Lecture 11-12: Optimization and Simulation  
 
 In this lecture, you will learn the tricks of deriving and simplifying optimization problems, e.g., server energy minimizing problem constrained by the latency. You will also learn the numerical optimization solution, e.g., stochastic gradient methods. Finally, you will learn the principles of building a simulation to validate your developed systems and models.
 
