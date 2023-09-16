@@ -18,12 +18,12 @@ There are different aspects of performance on modelling and optimizing the execu
 
 ## Google testbed platform for (Kubernetes ) FLTK
 
-Each team will be given a Google Cloud Platform coupon to set up their project and run their experiments. To request the Google coupon, you will need to follow the link below and provide your XXX email address and name. Then, an email will be sent to you to confirm these details before a coupon is sent to you.
+Each team will be given a Google Cloud Platform coupon to set up their project and run their experiments. To request the Google coupon, you will need to follow the link below and provide your UNINE email address and name. Then, an email will be sent to you to confirm these details before a coupon is sent to you.
 
 Details about the coupon:
 
 Link: Student Coupon Retrieval link&nbsp;
-Validation of coupon: now toXX
+Validation of coupon: now to 
 You can only request ONE code per unique email address.
 
 ## Evaluation criteria
@@ -115,7 +115,7 @@ We suggest the following final report structure:
 
 The final report should also contain a link to a repository (or several) that contain the software you created, the scripts you used to analyze your data, etc.
 
-Submission: every group uploads their intermediate presentation and final group project reports on Brightspace. The reports should be in PDF format. Note that after submission a plagiarism check is executed by Turnitin - please make sure to follow the academic rules of writing ([you can read them up here one more time](https://www.tudelft.nl/library/actuele-themas/copyright/c/plagiarism/)).
+Submission: every group uploads their intermediate presentation and final group project reports on ILIAS. The reports should be in PDF format. Note that after submission a plagiarism check is executed by Turnitin - please make sure to follow the academic rules of writing ([you can read them up here one more time](https://www.tudelft.nl/library/actuele-themas/copyright/c/plagiarism/)).
 
 In addition, your report must also include a figure that graphically depicts a major component of your project (e.g., your approach and how it relates to the application, etc.). Such a summary figure makes your paper much more accessible by providing a visual counterpart to the text. Developing such a concise and clear figure can actually be quite time-consuming; I often go through around ten versions before I end up with a good final version.
 
@@ -123,4 +123,4 @@ The final project report is graded in combination with the project interview. Th
 
 ## Interviews
 
-The 20 minute interviews per group will be scheduled on ** XXX ** and ** XX ** . 
+The 20 minute interviews per group will be scheduled on the last week of the course. 
