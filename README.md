@@ -30,7 +30,7 @@ This repository contains the materials of the **MSc Quantitative Methods of Perf
 
 - [Lectures notes](lecture.md)
 - [Project description](project.md)
-- [Homework assignments](homework.md)
+- [Weekly Lab and assigment](Lab.md)
 
 
 ##  2. <a name='Coursedescription'></a>Course description
@@ -83,10 +83,10 @@ This course has no final exam, instead the grade is largely determined through t
 1. Homework (30%): 3 individual homework due in week 4, 8, 11. Each homework accounts 10  of the grade and cover 3 weeks material. All homework will be released at the begining of the semester.
 
 
-2. Group project (50%): group project report (40%) and presentation (10%). There will be topics of modeling response times, configuring, dependability, scheduling design. There will be an initial proposal in week 3, interim discussion with each team in week 6. The final report will be due in week 9, and 20 minutes presentation in week 9 as well.
+2. Group project (70%): group project report (60%) and presentation (10%). There will be topics of modeling response times, configuring, dependability, scheduling design. There will be an initial proposal in week 5, interim discussion with each team in week 9. The final report will be due in week 13, and 20 minutes presentation in week 9 as well.
 
 
-**All assessment items (homework, and projects reports) have to be submitted via Brightspace.**
+**All assessment items (homework, and projects reports) have to be submitted via ILIAS.**
 
 
 ###  6.1. <a name='Homework'></a>Homework
@@ -94,7 +94,7 @@ This course has no final exam, instead the grade is largely determined through t
 - Homework 2: due in week 8
 - Homework 3: due in week 11 
 
-Students are given additional 72 hours grace period for late submission and will not receive any grade penalty. However, submissions after 48 hours grace period will not be considered and students will loose 25 points of their final grade. 
+Students are given additional 48 hours grace period for late submission and will not receive any grade penalty. However, submissions after 48 hours grace period will not be considered and students will loose 25 points of their final grade. 
 
 
 ###  6.2. <a name='Groupprojects'></a>Group projects
@@ -121,7 +121,7 @@ In order to pass this course, you need to fullfil **all** of the following:
 - Lecture 6 - 7: Discrete/continuous Markov Chain.
 - Lecture 8 - 9: Queueing theory Scheduling policies.
 - Lecture 10-12: Time series analysis, clustering and (deep) classification models.
-- Lecture 13-14: Paper discussions.
+
 
 
 
