@@ -2,6 +2,7 @@
 
 -   [Homework](#homework-structure)
     -   [Q&A + Classroom instructions](#qa--classroom-instructions)
+        - [Preparing Tutorial sessions](#preparing-tutorial-sessions)
 -   [Pointers for submitting to
     Ilias](#pointers-for-submitting-to-ilias)
     -   [Tips for Your Report](#tips-for-your-report)
@@ -25,7 +26,18 @@ The Homework release cycle will consist of 5 stages.
 
 QPECS' TA staff is available weekly during online Q&A sessions, where you can pose your questions.
 
-The in-person classroom sessions are scheduled during the classroom sessions; TA staff will be present offline to go over the exercises and discuss questions. Note that the offline sessions will be a in-classroom tutorial setting, providing a two-fold opportunity to 1) check your understanding of the exercises and ask questions, 2) prepare for and get started with the peer review.
+| Week | Date             | Topic            |
+|------|------------------|------------------|
+| 2    | 2nd of October   | Interactive session setup FLTK testbed |
+| 5    | 23rd of October  | Tutorial session HW 1  |
+| 9    | 20th of November | Tutorial session HW 2  |
+
+The in-person classroom sessions are scheduled during the classroom sessions; TA staff will be present offline to go over the exercises and discuss questions. Note that the offline sessions will be in an in-person classroom tutorial setting, providing a two-fold opportunity to 1) check your understanding of the exercises and ask questions, 2) prepare for and get started with the peer review.
+
+
+### Preparing Tutorial sessions
+The first offline tutorial session requires preparation to ensure you can participate in the example setup of the project in class. Ensure you have a laptop (preferably Linux) with the dependencies installed as described in https://github.com/JMGaljaard/fltk-testbed/blob/main/jupyter/terraform_notebook.ipynb. (Also see the Lab 1 exercise on Ilias).
+
 
 ## Pointers for Submitting to Ilias
 
