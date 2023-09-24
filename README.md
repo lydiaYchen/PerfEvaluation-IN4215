@@ -30,7 +30,7 @@ This repository contains the materials of the **MSc Quantitative Methods of Perf
 
 - [Lectures notes](lecture.md)
 - [Project description](project.md)
-- [Weekly Lab and assigment](Lab.md)
+- [Weekly Lab and assigment](homework.md)
 
 
 ##  2. <a name='Coursedescription'></a>Course description
