@@ -103,15 +103,14 @@ Students are given additional 48 hours grace period for late submission and will
 There are different aspects of performance  on modeling and optimizing the executions of deep neural network jobs. In this project, you will play with benchmarks that emulate the training jobs of deep neural networks on top of Spark platform - one of the most popular platform. You can build a model to predict the performance such jobs, to optimize their response times through resource allocations and scheduling, and to test the dependability of such a cluster against malicious attacks. You will do this project in a group with 1-2 other peers.
 
 - Group size: 2-3 students
-- Schedule: initial proposal (week 5), interim meeting (week 9), report due (week 13), and presentation/interview (week 13)
+- Schedule: initial proposal (week 5), interim meeting (week 9), report due (week 13), and presentation/interview (week 13). 
+
+[UPDATE] We change the requirement. For the final project, you just need to submit ppt slides, which summarize the results. If you submit a report, you will be getting bosnus point.
 
 At the end of each project phase we will conduct a short interview (20 minutes per group) about the group project and its connection to the course content. Based on the project report and the interview, each member of the group receives a grade. 
 
 
 
-In order to pass this course, you need to fullfil **all** of the following:
-1. Receive an overall grade of 5.8 or higher (in alignment with TU Delft's exam regulations). 
-2. Each homework and project at least a grade of 5.0.
 
 
 ##  7. <a name='Detailedschedule'></a>Detailed schedule
