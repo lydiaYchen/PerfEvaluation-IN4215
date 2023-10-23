@@ -97,6 +97,8 @@ The proposal should contain between 300 and 400 words. Your proposal should addr
 
 ### Final project report
 
+[UPDATE] We change the requirement. You just need to submit ppt slides, which summarize the results. If you submit a report, you will be getting bosnus point.
+
 The **final** group project report should be **6-7 pages** long in the [IEEE conference proceedings format](https://www.overleaf.com/latex/templates/ieee-conference-template-example/nsncsyjfmpxy) (available as LaTeX and Word templates) - even if the paper you originally chose to reproduce is 2 or 4 pages long, we still expect your report to adhere to the 6-7 page limit (think about the related work, implementation issues, analyses of results, etc. that are often underdeveloped in short papers). 
  <!---The **intermediate** project report is likely to be shorter (it is due a week before the final deadline), that is fine, submit whatever you have by then.)
  -->
