@@ -30,7 +30,7 @@ This repository contains the materials of the **MSc Quantitative Methods of Perf
 
 - [Lectures notes](lecture.md)
 - [Project description](project.md)
-- [Homework assignments](homework.md)
+- [Weekly Lab and assigment](homework.md)
 
 
 ##  2. <a name='Coursedescription'></a>Course description
@@ -61,7 +61,7 @@ Course topics include
 This course will be mainly taught by [Prof. Lydia Y Chen](https://lydiaychen.github.io/)  The course team is composed of a number of PhDs  who support the course through guest lectures and project supervision and a TA who focuses on the grading of homework. 
 
 
--  [Jeroen Galjaard](J.M.Galjaard@tudelft.nl) (TU DPhD student)
+-  [Jeroen Galjaard](mailto:J.M.Galjaard@tudelft.nl) (TUD PhD student)
 
 
 Lydia is the responsible instructors of this course and can jointly be reached at **lydiaychen@ieee.org**.
@@ -80,20 +80,19 @@ Lydia is the responsible instructors of this course and can jointly be reached a
 
 This course has no final exam, instead the grade is largely determined through three components: 
 
-1. Homework (30%): 3 individual homework due in week 4, 7, 10. Each homework accounts 10  of the grade and cover 3 weeks material. Homework will be given 2 Students have three weeks time to complete them. 
-
-Late submission will result into 10% point reduction per day. 
-
-2. Group project (50%): group project report (40%) and presentation (10%). There will be topics of modeling response times, configuring, dependability, scheduling design. There will be an initial proposal in week 3, interim discussion with each team in week 6. The final report will be due in week 9, and 20 minutes presentation in week 9 as well.
+1. Homework (30%): 3 individual homework due in week 4, 8, 11. Each homework accounts 10  of the grade and cover 3 weeks material. All homework will be released at the begining of the semester.
 
 
-**All assessment items (homework, and projects reports) have to be submitted via Brightspace.**
+2. Group project (70%): group project report (60%) and presentation (10%). There will be topics of modeling response times, configuring, dependability, scheduling design. There will be an initial proposal in week 5, interim discussion with each team in week 9. The final report will be due in week 13, and 20 minutes presentation in week 9 as well.
+
+
+**All assessment items (homework, and projects reports) have to be submitted via ILIAS.**
 
 
 ###  6.1. <a name='Homework'></a>Homework
 - Homework 1: due in week 4 
-- Homework 2: due in week 8 
-- Homework 3: due in week 12
+- Homework 2: due in week 7 
+- Homework 3: due in week 10 
 
 Students are given additional 48 hours grace period for late submission and will not receive any grade penalty. However, submissions after 48 hours grace period will not be considered and students will loose 10 points of their final grade. 
 
@@ -104,24 +103,22 @@ Students are given additional 48 hours grace period for late submission and will
 There are different aspects of performance  on modeling and optimizing the executions of deep neural network jobs. In this project, you will play with benchmarks that emulate the training jobs of deep neural networks on top of Spark platform - one of the most popular platform. You can build a model to predict the performance such jobs, to optimize their response times through resource allocations and scheduling, and to test the dependability of such a cluster against malicious attacks. You will do this project in a group with 1-2 other peers.
 
 - Group size: 2-3 students
-- Schedule: initial proposal (week 3), interim meeting (week 7), report due (week 13), and presentation/interview (week 13)
+- Schedule: initial proposal (week 5), interim meeting (week 9), report due (week 11), and presentation/interview (week 11)
 
 At the end of each project phase we will conduct a short interview (20 minutes per group) about the group project and its connection to the course content. Based on the project report and the interview, each member of the group receives a grade. 
 
 
 
-In order to pass this course, you need to fullfil **all** of the following:
-1. Receive an overall grade of 5.8 or higher (in alignment with TU Delft's exam regulations). 
-2. Each homework and project at least a grade of 5.0.
 
 
 ##  7. <a name='Detailedschedule'></a>Detailed schedule
 - Lecture 1-3: Introduction, Analysis of Variation (ANOVA), Design of experiments (DoE).
-- Lecture 4: Operational Law.
-- Lecture 5 - 6: Discrete/continuous Markov Chain.
-- Lecture 7 - 8: Queueing theory Scheduling policies.
-- Lecture 9 -11: Time series analysis, clustering and (deep) classification models.
-- Lecture 12: Optimization and simulation
+- Lecture 4: Practical Lab on the Project's platform (FLDK).
+- Lecture 5: Operational Law.
+- Lecture 6 - 7: Discrete/continuous Markov Chain.
+- Lecture 8 - 9: Queueing theory Scheduling policies.
+- Lecture 10-12: Time series analysis, clustering and (deep) classification models.
+- Lecture 13-14: Paper discussions.
 
 
 
