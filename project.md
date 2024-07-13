@@ -4,8 +4,8 @@ There are different aspects of performance on modelling and optimizing the execu
 
 ## There are three expected milestones:
 
-1. **Project proposal** (mandatory, but ungraded - you will receive feedback): due on week 3
-2. **Intermediate project meeting** (mandatory, but ungraded - you will receive feedback): due on week 7
+1. **Project proposal** (mandatory, but ungraded - you will receive feedback): due on week 5
+2. **Intermediate project meeting** (mandatory, but ungraded - you will receive feedback): due on week 9
 3. **Final project report** (mandatory, graded): due on week 13
 4. **20 min project presentation**
 (mandatory, graded): due on week 13
